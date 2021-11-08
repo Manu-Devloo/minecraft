@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:item":{"description":{"identifier":"fmb:brown_concrete_item","category":"equipment"},"components":{"minecraft:icon":{"texture":"fmb_brown_concrete"},"minecraft:wearable":{"dispensable":true,"slot":"slot.armor.head"},"minecraft:armor":{"protection":0},"minecraft:entity_placer":{"entity":"fmb:brown_concrete"}}}}

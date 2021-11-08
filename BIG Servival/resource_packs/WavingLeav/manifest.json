@@ -1,0 +1,30 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Makes Leaves, Plants, Flowers, Crops and Water Wave! Made by §4Fused §8Bolt §r",
+        "name": "Waving Leaves and Water!V5",
+        "uuid": "81fbc53c-2f98-48e9-b838-4e1f070b74cc",
+        "version": [5, 0, 0],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Waving Leaves and Water by Fused Bolt",
+            "type": "resources",
+            "uuid": "5fa5ceb8-65e0-40c9-be83-c34701fc4ccb",
+            "version": [5, 0, 0]
+     }
+   ],
+   "subpacks": [
+   {
+      "folder_name": "no animations",
+      "name": "Flower/Plant Animations OFF",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "animations",
+      "name": "Flower/Plant Animations ON",
+      "memory_tier": 1
+      }
+   ]
+}

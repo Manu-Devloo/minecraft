@@ -1,0 +1,190 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.fcl_chunkloader.ops": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"start": "query.variant == 3"
+						}
+					]
+				},
+				"start": {
+					"transitions": [
+						{
+							"ops_loop_1": "query.variant == 3"
+						},
+						{
+							"stop": "query.variant != 3"
+						}
+					],
+					"on_entry": [
+						"/function fcl_ops_start"
+					]
+				},
+				"ops_loop_1": {
+					"transitions": [
+						{
+							"stop": "query.variant != 3"
+						},
+						{
+							"ops_loop_2": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"/function fcl_ops_loop"
+					]
+				
+				},
+				"ops_loop_2": {
+					"transitions": [
+						{
+							"stop": "query.variant != 3"
+						},
+						{
+							"ops_loop_1": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"/function fcl_ops_loop"
+					]
+				
+				},
+				"stop": {
+					"transitions": [
+						{
+							"default": "query.variant != 3"
+						}
+					],
+					"on_entry": [
+						"/function fcl_ops_stop"
+					]
+				}
+			}
+		},
+		"controller.animation.fcl_chunkloader.ticker": {
+			"initial_state": "default",
+			"states": {
+				"default" : {
+					"transitions": [
+						{
+							"not_ticking": "query.mark_variant == 0"
+						},
+						{
+							"small_ticking": "query.mark_variant == 1"
+						},
+						{
+							"medium_ticking": "query.mark_variant == 2"
+						},
+						{
+							"large_ticking": "query.mark_variant == 3"
+						}
+					]				
+				},
+				"not_ticking": {
+					"transitions": [
+						{
+							"small_ticking": "query.mark_variant == 1"
+						},
+						{
+							"medium_ticking": "query.mark_variant == 2"
+						},
+						{
+							"large_ticking": "query.mark_variant == 3"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: I'm not loading chunks"
+					]
+				},
+				"small_ticking": {
+					"transitions": [
+						{
+							"not_ticking": "query.mark_variant == 0"
+						},
+						{
+							"medium_ticking": "query.mark_variant == 2"
+						},
+						{
+							"large_ticking": "query.mark_variant == 3"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: I will load chunks, with a radius of 2 chunks"
+					]
+				},
+				"medium_ticking": {
+					"transitions": [
+						{
+							"not_ticking": "query.mark_variant == 0"
+						},
+						{
+							"small_ticking": "query.mark_variant == 1"
+						},
+						{
+							"large_ticking": "query.mark_variant == 3"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: I will load chunks, with a radius of 4 chunks"
+					]
+				},
+				"large_ticking": {
+					"transitions": [
+						{
+							"not_ticking": "query.mark_variant == 0"
+						},
+						{
+							"small_ticking": "query.mark_variant == 1"
+						},
+						{
+							"medium_ticking": "query.mark_variant == 2"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: will load chunks, with a radius of 6 chunks"
+					]
+				}
+			}
+		},
+		"controller.animation.fcl_chunkloader.sleeper": {
+			"initial_state": "default",
+			"states": {
+				"default" : {
+					"transitions": [
+						{
+							"will_sleep": "query.is_illager_captain"
+						},
+						{
+							"wont_sleep": "!query.is_illager_captain"
+						}
+					]				
+				},
+				"wont_sleep": {
+					"transitions": [
+						{
+							"will_sleep": "query.is_illager_captain"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: I won't sleep at night if you sit me down",
+						"/tag @s remove fcl_will_sleep"
+					]
+				},
+				"will_sleep": {
+					"transitions": [
+						{
+							"wont_sleep": "!query.is_illager_captain"
+						}
+					],
+					"on_entry": [
+						"/title @p actionbar Chuck: I will sleep at night if you sit me down",
+						"/tag @s add fcl_will_sleep"
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:item":{"description":{"identifier":"fmb:spruce_log_item","category":"equipment"},"components":{"minecraft:icon":{"texture":"fmb_spruce_log"},"minecraft:wearable":{"dispensable":true,"slot":"slot.armor.head"},"minecraft:armor":{"protection":0},"minecraft:entity_placer":{"entity":"fmb:spruce_log"}}}}

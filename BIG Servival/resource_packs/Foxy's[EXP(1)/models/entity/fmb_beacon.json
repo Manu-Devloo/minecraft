@@ -1,0 +1,45 @@
+{
+  "format_version": "1.8.0",
+  "geometry.fmb_beacon": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0, 0 ],
+    "texturewidth": 64,
+    "textureheight": 68,
+    "bones": [
+      {
+        "name": "cube",
+		"pivot": [ 0.0, 8.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -8.0, 0.0, -8.0 ],
+            "size": [ 16, 16, 16 ],
+            "uv": [0, 0]
+          }
+        ]
+      },
+      {
+        "name": "inner_cube",
+        "cubes": [
+          {
+            "origin": [ -5.0, 3.2, -5.0 ],
+            "size": [ 10, 11, 10 ],
+            "uv": [0, 32]
+          }
+        ],
+        "parent": "cube"
+      },
+      {
+        "name": "base",
+        "cubes": [
+          {
+            "origin": [ -6.0, 0.1, -6.0 ],
+            "size": [ 12, 3, 12 ],
+            "uv": [0, 53]
+          }
+        ],
+        "parent": "cube"
+      }
+    ]
+  }
+}

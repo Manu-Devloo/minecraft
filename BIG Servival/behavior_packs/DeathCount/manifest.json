@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A reliable death counter for your singleplayer and multiplayer worlds.",
+        "name": "Death Counter",
+        "uuid": "8ef53250-0aec-425f-a8e7-8f927a96eef9",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A reliable death counter for your singleplayer and multiplayer worlds.",
+            "type": "data",
+            "uuid": "682c4f84-c463-405e-a96e-800820a8c0f2",
+            "version": [0, 0, 1]
+        }
+    ]
+}

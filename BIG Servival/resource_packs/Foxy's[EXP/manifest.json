@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v2.1.1 | §r Pack By §6FoxyNoTail§r | Requires Experimental Gameplay Features | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r [EXPERIMENTAL] §l§bMob Heads§r v2.1.1 [R]",
+        "uuid": "c4772868-8822-4962-a931-90dfb46b02f3",
+        "version": [2, 1, 1],
+        "min_engine_version": [ 1, 16, 220 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "3372f171-df75-4c59-8158-a32b816549c9",
+            "version": [2, 1, 1]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "6d8cdeeb-becc-4228-b7e6-8bd90679d9b3",
+		"version": [2, 1, 1]
+	  }
+	]
+}

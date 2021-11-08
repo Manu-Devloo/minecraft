@@ -1,0 +1,847 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "fcl:fcl_chunkloader",
+			"is_spawnable": false,
+			"is_summonable": true,
+			"is_experimental": false,
+			"scripts": {
+				"animate": [
+					"fcl_ops",
+					"fcl_ticker",
+					"fcl_sleeper"
+				]
+			},
+			"animations": {
+				"fcl_ops": "controller.animation.fcl_chunkloader.ops",
+				"fcl_ticker": "controller.animation.fcl_chunkloader.ticker",
+				"fcl_sleeper": "controller.animation.fcl_chunkloader.sleeper"
+			}
+		},
+		"component_groups": {
+			"fcl:chunkloader_wild": {
+				"minecraft:tameable": {
+					"probability": 1.0,
+					"tame_items": "emerald",
+					"tame_event": {
+						"event": "minecraft:on_tame",
+						"target": "self"
+					}
+				}
+			},
+			"fcl:chunkloader_tame": {
+				"minecraft:is_tamed": {},
+				"minecraft:leashable": {
+					"soft_distance": 4.0,
+					"hard_distance": 6.0,
+					"max_distance": 10.0,
+					"on_leash": {
+						"event": "minecraft:on_leash",
+						"target": "self"
+					},
+					"on_unleash": {
+						"event": "minecraft:on_unleash",
+						"target": "self"
+					}
+				}
+				
+			},
+			"fcl:fcl_following": {
+				"minecraft:interact": {
+					"interactions": [
+						{
+						"interact_text": "Stay Here",
+						"on_interact": {		
+							"filters": {
+								"all_of": [
+									{									
+										"any_of": [
+											{
+												"any_of": [										
+													{
+														"test": "hourly_clock_time",
+														"operator": ">=",
+														"value": 23500
+													},
+													{
+														"all_of": [											
+															{
+																"test": "hourly_clock_time",
+																"operator": ">=",
+																"value": 0
+															},
+															{
+																"test": "hourly_clock_time",
+																"operator": "<",
+																"value": 13000
+															}
+														]
+													}	
+												]
+											},
+											{
+												"test": "hourly_clock_time",
+												"operator": ">",
+												"value": 13000
+											},
+											{
+												"test": "hourly_clock_time",
+												"operator": "<",
+												"value": 23500
+											},
+											{
+												"test": "has_tag",
+												"operator": "not",
+												"value": "fcl_will_sleep"
+											}										
+										
+										]
+									},
+									{
+										"none_of": [										
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "bed"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "emerald"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "diamond"
+											}
+										]
+									},
+									{
+										"test": "is_owner",
+										"subject": "player"
+									}
+								]
+							},					
+							"event": "fcl:fcl_stop_following",
+							"target": "self"
+						},
+						"play_sounds": "haggle",
+						"swing": true,
+						"use_item": false	
+						},						
+						{
+						"interact_text": "Stay Here",
+						"on_interact": {		
+							"filters": {
+								"all_of": [
+									{
+										"test": "hourly_clock_time",
+										"operator": ">",
+										"value": 13000
+									},
+									{
+										"test": "hourly_clock_time",
+										"operator": "<",
+										"value": 23500
+									},
+									{
+										"test": "has_tag",
+										"value": "fcl_will_sleep"
+									},
+									{
+										"none_of": [										
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "bed"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "emerald"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "diamond"
+											}
+										]
+									},
+									{
+										"test": "is_owner",
+										"subject": "player"
+									}
+								]
+							},					
+							"event": "fcl:fcl_start_sleeping",
+							"target": "self"
+						},
+						"play_sounds": "haggle",
+						"swing": true,
+						"use_item": false	
+						},
+						{
+							"interact_text": "Despawn",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "emerald"
+										}
+									]
+								},
+								"event": "fcl:fcl_do_despawn",
+								"target": "self"
+							},
+							"play_sounds": "death",
+							"swing": true,
+							"use_item": false,
+							"spawn_items": {
+								"table": "loot_tables/entities/fcl_chunkloader.json"
+							}
+						},
+						{
+							"interact_text": "Stop Chunk Loading",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{
+											"any_of": [
+												{												
+													"test": "is_mark_variant",
+													"value": 3
+												}
+											]
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"any_of": [
+												{												
+													"test": "has_equipment",
+													"domain": "hand",
+													"subject": "player",
+													"value": "iron_ingot"
+												},
+												{												
+													"test": "has_equipment",
+													"domain": "hand",
+													"subject": "player",
+													"value": "gold_ingot"
+												},
+												{												
+													"test": "has_equipment",
+													"domain": "hand",
+													"subject": "player",
+													"value": "diamond"
+												}
+											]
+										}
+									]
+								},							
+								"event": "fcl:fcl_stop_ticking",
+								"target": "self"
+							},
+							"play_sounds": "celebrate",
+							"swing": true,
+							"use_item": false
+						},
+						{
+							"interact_text": "Start Chunk Loading",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{											
+											"test": "is_mark_variant",
+											"value": 0
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "diamond"
+										}
+									]
+								},							
+								"event": "fcl:fcl_start_small_ticking",
+								"target": "self"
+							},
+							"play_sounds": "hurt",
+							"swing": true,
+							"use_item": false
+						},
+						{
+							"interact_text": "Start Chunk Loading",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{											
+											"test": "is_mark_variant",
+											"value": 1
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "diamond"
+										}
+									]
+								},							
+								"event": "fcl:fcl_start_medium_ticking",
+								"target": "self"
+							},
+							"play_sounds": "hurt",
+							"swing": true,
+							"use_item": false
+						},
+						{
+							"interact_text": "Start Chunk Loading",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{											
+											"test": "is_mark_variant",
+											"value": 2
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "diamond"
+										}
+									]
+								},							
+								"event": "fcl:fcl_start_large_ticking",
+								"target": "self"
+							},
+							"play_sounds": "hurt",
+							"swing": true,
+							"use_item": false
+						},
+						{
+							"interact_text": "Prevent Sleeping",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{
+											"test": "has_tag",
+											"value": "fcl_will_sleep"
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "bed"
+										}
+									]
+								},							
+								"event": "fcl:fcl_prevent_sleeping",
+								"target": "self"
+							},
+							"play_sounds": "haggle",
+							"swing": true,
+							"use_item": false
+						},
+						{
+							"interact_text": "Allow Sleeping",
+							"on_interact": {
+								"filters": {
+									"all_of": [
+										{
+											"test": "has_tag",
+											"operator": "not",
+											"value": "fcl_will_sleep"
+										},
+										{
+											"test": "is_owner",
+											"subject": "player"
+										},
+										{
+											"test": "has_equipment",
+											"domain": "hand",
+											"subject": "player",
+											"value": "bed"
+										}
+									]
+								},							
+								"event": "fcl:fcl_allow_sleeping",
+								"target": "self"
+							},
+							"play_sounds": "haggle.yes",
+							"swing": true,
+							"use_item": false
+						}
+					]
+				},
+				"minecraft:behavior.follow_owner": {
+					"priority": 1,
+					"speed_multiplier": 0.3,
+					"start_distance": 5,
+					"stop_distance": 2
+				},
+				"minecraft:variant": {
+					"value": 1
+				}
+				
+			},
+			"fcl:fcl_staying": {
+				"minecraft:interact": {
+					"interactions": [
+						{
+						"interact_text": "Follow Me",
+						"on_interact": {	
+							"filters": {
+								"all_of": [								
+								
+									{
+										"none_of": [										
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "bed"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "emerald"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "diamond"
+											}
+										]
+									},
+								
+									{
+										"test": "is_sneaking",
+										"operator": "not",
+										"subject": "player"
+									},
+									{
+										"test": "is_owner",
+										"subject": "player"
+									}
+								]
+							},						
+							"event": "fcl:fcl_start_following",
+							"target": "self"
+						},
+						"play_sounds": "haggle.yes",
+						"swing": true,
+						"use_item": false		
+						}
+					]
+				},
+				"minecraft:variant": {
+					"value": 2
+				}
+			},
+			"fcl:fcl_sleeping": {
+				"minecraft:interact": {
+					"interactions": [
+						{
+						"interact_text": "Follow Me",
+						"on_interact": {	
+							"filters": {
+								"all_of": [						
+								
+									{
+										"none_of": [										
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "bed"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "emerald"
+											},							
+											{
+												"test": "has_equipment",
+												"domain": "hand",
+												"subject": "player",
+												"value": "diamond"
+											}
+										]
+									},
+									{
+										"test": "is_sneaking",
+										"operator": "not",
+										"subject": "player"
+									},
+									{
+										"test": "is_owner",
+										"subject": "player"
+									}
+								]
+							},						
+							"event": "fcl:fcl_start_following",
+							"target": "self"
+						},
+						"play_sounds": "haggle.yes",
+						"swing": true,
+						"use_item": false		
+						}
+					]
+				},
+				"minecraft:variant": {
+					"value": 3
+				}
+			},
+			
+			"fcl:fcl_small_ticking": {
+				"minecraft:tick_world": {
+					"never_despawn": true,
+					"radius": 2
+				},
+				"minecraft:mark_variant": {
+					"value": 1
+				}
+			},
+			"fcl:fcl_medium_ticking": {
+				"minecraft:tick_world": {
+					"never_despawn": true,
+					"radius": 4
+				},
+				"minecraft:mark_variant": {
+					"value": 2
+				}
+			},
+			"fcl:fcl_large_ticking": {
+				"minecraft:tick_world": {
+					"never_despawn": true,
+					"radius": 6
+				},
+				"minecraft:mark_variant": {
+					"value": 3
+				}
+			},
+			"fcl:fcl_not_ticking": {
+				"minecraft:tick_world": false,
+				"minecraft:mark_variant": {
+					"value": 0
+				}
+			},
+			"fcl:fcl_will_sleep": {
+				"minecraft:is_illager_captain": true
+			},
+			"fcl:fcl_wont_sleep": {
+				"minecraft:is_illager_captain": false
+			},
+			"fcl:fcl_despawn": {
+				"minecraft:despawn": {}
+			}
+		},
+		"components": {
+			"minecraft:scheduler": {
+				"min_delay_secs": 0,
+				"max_delay_secs": 0,
+				"scheduled_events": [
+					{
+						"filters": {
+							"all_of": [
+								{									
+									"any_of": [										
+										{
+											"test": "hourly_clock_time",
+											"operator": ">=",
+											"value": 23500
+										},
+										{
+											"all_of": [											
+												{
+													"test": "hourly_clock_time",
+													"operator": ">=",
+													"value": 0
+												},
+												{
+													"test": "hourly_clock_time",
+													"operator": "<",
+													"value": 13000
+												}
+											]
+										}
+									]
+								},	
+								{
+									"test": "is_variant",
+									"value": 3
+								}
+							]
+						},
+						"event": "fcl:fcl_stop_following"
+					},
+					{
+						"filters": {
+							"all_of": [
+								{
+									"test": "hourly_clock_time",
+									"operator": ">=",
+									"value": 13000
+								},
+								{
+									"test": "hourly_clock_time",
+									"operator": "<",
+									"value": 23500
+								},								
+								{
+									"test": "has_tag",
+									"value": "fcl_will_sleep"
+								},
+								{
+									"test": "is_variant",
+									"value": 2
+								}
+							]
+						},
+						"event": "fcl:fcl_start_sleeping"
+					}
+				]
+			},		
+			"minecraft:fire_immune": true,
+			"minecraft:persistent": {},
+			"minecraft:damage_sensor": {
+				"triggers": {
+					"cause": "all",
+					"deals_damage": false
+				}
+			},
+			"minecraft:nameable": {
+				"always_show": true,
+				"allow_name_tag_renaming": false
+			},
+			"minecraft:type_family": {
+				"family": [
+					"chunkloader",
+					"mob"
+				]
+			},
+			"minecraft:breathable": {
+				"breathes_air": true,
+				"breathes_water": true,
+				"breathes_lava": true,
+				"breathes_solids": true
+			},
+			"minecraft:collision_box": {
+				"width": 0.6,
+				"height": 1.8
+			},
+			"minecraft:health": {
+				"value": 100,
+				"max": 100
+			},
+			"minecraft:movement": {
+				"value": 1
+			},
+			"minecraft:navigation.walk": {
+				"can_path_over_water": true,
+				"avoid_damage_blocks": true,
+				"can_open_doors": true,
+				"can_sink": true
+			},
+			"minecraft:movement.basic": {},
+			"minecraft:jump.static": {},
+			"minecraft:can_climb": {},
+			"minecraft:behavior.float": {
+				"priority": 0
+			},
+			"minecraft:physics": {},
+			"minecraft:pushable": {
+				"is_pushable": true,
+				"is_pushable_by_piston": true
+			}
+		},
+		
+		
+		
+		"events": {
+			"minecraft:entity_spawned": {
+				"add": {
+					"component_groups": [
+						"fcl:chunkloader_wild"
+					]
+				}
+			},
+			"minecraft:on_tame": {
+				"remove": {
+					"component_groups": [
+						"fcl:chunkloader_wild"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:chunkloader_tame",
+						"fcl:fcl_following"
+					]
+				}
+			},
+			"fcl:fcl_start_following": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_staying",		
+						"fcl:fcl_sleeping"
+					]
+				},
+				"add": {
+					"component_groups": [		
+						"fcl:fcl_following"
+					]
+				}			
+			},
+			"fcl:fcl_stop_following": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_following",
+						"fcl:fcl_sleeping"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_staying"
+					]
+				}			
+			},
+			"fcl:fcl_start_sleeping": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_following",
+						"fcl:fcl_staying"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_sleeping"
+					]
+				}
+			},
+			
+			"fcl:fcl_start_small_ticking": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_not_ticking",
+						"fcl:fcl_medium_ticking",
+						"fcl:fcl_large_ticking"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_small_ticking"
+					]
+				}			
+			},
+			"fcl:fcl_start_medium_ticking": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_not_ticking",
+						"fcl:fcl_small_ticking",
+						"fcl:fcl_large_ticking"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_medium_ticking"
+					]
+				}			
+			},
+			"fcl:fcl_start_large_ticking": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_not_ticking",
+						"fcl:fcl_small_ticking",
+						"fcl:fcl_medium_ticking"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_large_ticking"
+					]
+				}			
+			},
+			"fcl:fcl_stop_ticking": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_large_ticking",
+						"fcl:fcl_medium_ticking",
+						"fcl:fcl_small_ticking"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_not_ticking"
+					]
+				}			
+			},
+			"fcl:fcl_allow_sleeping": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_wont_sleep"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_will_sleep"
+					]
+				}			
+			},
+			"fcl:fcl_prevent_sleeping": {
+				"remove": {
+					"component_groups": [
+						"fcl:fcl_will_sleep"
+					]
+				},
+				"add": {
+					"component_groups": [
+						"fcl:fcl_wont_sleep"
+					]
+				}			
+			},
+			"fcl:fcl_do_despawn": {
+				"add": {
+					"component_groups": [
+						"fcl:fcl_despawn"
+					]
+				}
+			}
+			
+		}
+	}
+}

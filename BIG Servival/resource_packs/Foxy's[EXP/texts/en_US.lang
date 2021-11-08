@@ -1,0 +1,1170 @@
+item.spawn_egg.entity.fmh:axolotl_blue.name=Blue Axolotl Spawn Egg
+entity.fmh:axolotl_blue.name=Blue Axolotl
+action.hint.exit.fmh:axolotl_blue=Jump to Exit
+item.fmh:axolotl_blue_item=Blue Axolotl Head
+
+item.spawn_egg.entity.fmh:axolotl_cyan.name=Cyan Axolotl Spawn Egg
+entity.fmh:axolotl_cyan.name=Cyan Axolotl
+action.hint.exit.fmh:axolotl_cyan=Jump to Exit
+item.fmh:axolotl_cyan_item=Cyan Axolotl Head
+
+item.spawn_egg.entity.fmh:axolotl_gold.name=Gold Axolotl Spawn Egg
+entity.fmh:axolotl_gold.name=Gold Axolotl
+action.hint.exit.fmh:axolotl_gold=Jump to Exit
+item.fmh:axolotl_gold_item=Gold Axolotl Head
+
+item.spawn_egg.entity.fmh:axolotl_lucy.name=Lucy Axolotl Spawn Egg
+entity.fmh:axolotl_lucy.name=Lucy Axolotl
+action.hint.exit.fmh:axolotl_lucy=Jump to Exit
+item.fmh:axolotl_lucy_item=Lucy Axolotl Head
+
+item.spawn_egg.entity.fmh:axolotl_wild.name=Wild Axolotl Spawn Egg
+entity.fmh:axolotl_wild.name=Wild Axolotl
+action.hint.exit.fmh:axolotl_wild=Jump to Exit
+item.fmh:axolotl_wild_item=Wild Axolotl Head
+
+item.spawn_egg.entity.fmh:bat.name=Bat Spawn Egg
+entity.fmh:bat.name=Bat
+action.hint.exit.fmh:bat=Jump to Exit
+item.fmh:bat_item=Bat Head
+
+item.spawn_egg.entity.fmh:bee_angry.name=Angry Bee Spawn Egg
+entity.fmh:bee_angry.name=Angry Bee
+action.hint.exit.fmh:bee_angry=Jump to Exit
+item.fmh:bee_angry_item=Angry Bee Head
+
+item.spawn_egg.entity.fmh:bee.name=Bee Spawn Egg
+entity.fmh:bee.name=Bee
+action.hint.exit.fmh:bee=Jump to Exit
+item.fmh:bee_item=Bee Head
+
+item.spawn_egg.entity.fmh:blaze.name=Blaze Spawn Egg
+entity.fmh:blaze.name=Blaze
+action.hint.exit.fmh:blaze=Jump to Exit
+item.fmh:blaze_item=Blaze Head
+
+item.spawn_egg.entity.fmh:cat_black.name=Black Cat Spawn Egg
+entity.fmh:cat_black.name=Black Cat
+action.hint.exit.fmh:cat_black=Jump to Exit
+item.fmh:cat_black_item=Black Cat Head
+
+item.spawn_egg.entity.fmh:cat_british_shorthair.name=British Shorthair Cat Spawn Egg
+entity.fmh:cat_british_shorthair.name=British Shorthair Cat
+action.hint.exit.fmh:cat_british_shorthair=Jump to Exit
+item.fmh:cat_british_shorthair_item=British Shorthair Cat Head
+
+item.spawn_egg.entity.fmh:cat_calico.name=Calico Cat Spawn Egg
+entity.fmh:cat_calico.name=Calico Cat
+action.hint.exit.fmh:cat_calico=Jump to Exit
+item.fmh:cat_calico_item=Calico Cat Head
+
+item.spawn_egg.entity.fmh:cat_jellie.name=Jellie Cat Spawn Egg
+entity.fmh:cat_jellie.name=Jellie Cat
+action.hint.exit.fmh:cat_jellie=Jump to Exit
+item.fmh:cat_jellie_item=Jellie Cat Head
+
+item.spawn_egg.entity.fmh:cat_persian.name=Persian Cat Spawn Egg
+entity.fmh:cat_persian.name=Persian Cat
+action.hint.exit.fmh:cat_persian=Jump to Exit
+item.fmh:cat_persian_item=Persian Cat Head
+
+item.spawn_egg.entity.fmh:cat_ragdoll.name=Ragdoll Cat Spawn Egg
+entity.fmh:cat_ragdoll.name=Ragdoll Cat
+action.hint.exit.fmh:cat_ragdoll=Jump to Exit
+item.fmh:cat_ragdoll_item=Ragdoll Cat Head
+
+item.spawn_egg.entity.fmh:cat_red.name=Red Cat Spawn Egg
+entity.fmh:cat_red.name=Red Cat
+action.hint.exit.fmh:cat_red=Jump to Exit
+item.fmh:cat_red_item=Red Cat Head
+
+item.spawn_egg.entity.fmh:cat_siamese.name=Siamese Cat Spawn Egg
+entity.fmh:cat_siamese.name=Siamese Cat
+action.hint.exit.fmh:cat_siamese=Jump to Exit
+item.fmh:cat_siamese_item=Siamese Cat Head
+
+item.spawn_egg.entity.fmh:cat_tabby.name=Tabby Cat Spawn Egg
+entity.fmh:cat_tabby.name=Tabby Cat
+action.hint.exit.fmh:cat_tabby=Jump to Exit
+item.fmh:cat_tabby_item=Tabby Cat Head
+
+item.spawn_egg.entity.fmh:cat_tuxedo.name=Tuxedo Cat Spawn Egg
+entity.fmh:cat_tuxedo.name=Tuxedo Cat
+action.hint.exit.fmh:cat_tuxedo=Jump to Exit
+item.fmh:cat_tuxedo_item=Tuxedo Cat Head
+
+item.spawn_egg.entity.fmh:cat_white.name=White Cat Spawn Egg
+entity.fmh:cat_white.name=White Cat
+action.hint.exit.fmh:cat_white=Jump to Exit
+item.fmh:cat_white_item=White Cat Head
+
+item.spawn_egg.entity.fmh:cave_spider.name=Cave Spider Spawn Egg
+entity.fmh:cave_spider.name=Cave Spider
+action.hint.exit.fmh:cave_spider=Jump to Exit
+item.fmh:cave_spider_item=Cave Spider Head
+
+item.spawn_egg.entity.fmh:chicken.name=Chicken Spawn Egg
+entity.fmh:chicken.name=Chicken
+action.hint.exit.fmh:chicken=Jump to Exit
+item.fmh:chicken_item=Chicken Head
+
+item.spawn_egg.entity.fmh:cod.name=Cod Spawn Egg
+entity.fmh:cod.name=Cod
+action.hint.exit.fmh:cod=Jump to Exit
+item.fmh:cod_item=Cod Head
+
+item.spawn_egg.entity.fmh:cow.name=Cow Spawn Egg
+entity.fmh:cow.name=Cow
+action.hint.exit.fmh:cow=Jump to Exit
+item.fmh:cow_item=Cow Head
+
+item.spawn_egg.entity.fmh:dolphin.name=Dolphin Spawn Egg
+entity.fmh:dolphin.name=Dolphin
+action.hint.exit.fmh:dolphin=Jump to Exit
+item.fmh:dolphin_item=Dolphin Head
+
+item.spawn_egg.entity.fmh:donkey.name=Donkey Spawn Egg
+entity.fmh:donkey.name=Donkey
+action.hint.exit.fmh:donkey=Jump to Exit
+item.fmh:donkey_item=Donkey Head
+
+item.spawn_egg.entity.fmh:drowned.name=Drowned Spawn Egg
+entity.fmh:drowned.name=Drowned
+action.hint.exit.fmh:drowned=Jump to Exit
+item.fmh:drowned_item=Drowned Head
+
+item.spawn_egg.entity.fmh:elder_guardian.name=Elder Guardian Spawn Egg
+entity.fmh:elder_guardian.name=Elder Guardian
+action.hint.exit.fmh:elder_guardian=Jump to Exit
+item.fmh:elder_guardian_item=Elder Guardian Head
+
+item.spawn_egg.entity.fmh:enderman.name=Enderman Spawn Egg
+entity.fmh:enderman.name=Enderman
+action.hint.exit.fmh:enderman=Jump to Exit
+item.fmh:enderman_item=Enderman Head
+
+item.spawn_egg.entity.fmh:endermite.name=Endermite Spawn Egg
+entity.fmh:endermite.name=Endermite
+action.hint.exit.fmh:endermite=Jump to Exit
+item.fmh:endermite_item=Endermite Head
+
+item.spawn_egg.entity.fmh:evoker.name=Evoker Spawn Egg
+entity.fmh:evoker.name=Evoker
+action.hint.exit.fmh:evoker=Jump to Exit
+item.fmh:evoker_item=Evoker Head
+
+item.spawn_egg.entity.fmh:fox_red.name=Red Fox Spawn Egg
+entity.fmh:fox_red.name=Red Fox
+action.hint.exit.fmh:fox_red=Jump to Exit
+item.fmh:fox_red_item=Red Fox Head
+
+item.spawn_egg.entity.fmh:fox_white.name=White Fox Spawn Egg
+entity.fmh:fox_white.name=White Fox
+action.hint.exit.fmh:fox_white=Jump to Exit
+item.fmh:fox_white_item=White Fox Head
+
+item.spawn_egg.entity.fmh:ghast.name=Ghast Spawn Egg
+entity.fmh:ghast.name=Ghast
+action.hint.exit.fmh:ghast=Jump to Exit
+item.fmh:ghast_item=Ghast Head
+
+item.spawn_egg.entity.fmh:glow_squid.name=Glow Squid Spawn Egg
+entity.fmh:glow_squid.name=Glow Squid
+action.hint.exit.fmh:glow_squid=Jump to Exit
+item.fmh:glow_squid_item=Glow Squid Head
+
+item.spawn_egg.entity.fmh:goat_screamer.name=Screamer Goat Spawn Egg
+entity.fmh:goat_screamer.name=Screamer Goat
+action.hint.exit.fmh:goat_screamer=Jump to Exit
+item.fmh:goat_screamer_item=Screamer Goat Head
+
+item.spawn_egg.entity.fmh:goat.name=Goat Spawn Egg
+entity.fmh:goat.name=Goat
+action.hint.exit.fmh:goat=Jump to Exit
+item.fmh:goat_item=Goat Head
+
+item.spawn_egg.entity.fmh:guardian.name=Guardian Spawn Egg
+entity.fmh:guardian.name=Guardian
+action.hint.exit.fmh:guardian=Jump to Exit
+item.fmh:guardian_item=Guardian Head
+
+item.spawn_egg.entity.fmh:hoglin.name=Hoglin Spawn Egg
+entity.fmh:hoglin.name=Hoglin
+action.hint.exit.fmh:hoglin=Jump to Exit
+item.fmh:hoglin_item=Hoglin Head
+
+item.spawn_egg.entity.fmh:horse_black.name=Black Horse Spawn Egg
+entity.fmh:horse_black.name=Black Horse
+action.hint.exit.fmh:horse_black=Jump to Exit
+item.fmh:horse_black_item=Black Horse Head
+
+item.spawn_egg.entity.fmh:horse_brown.name=Brown Horse Spawn Egg
+entity.fmh:horse_brown.name=Brown Horse
+action.hint.exit.fmh:horse_brown=Jump to Exit
+item.fmh:horse_brown_item=Brown Horse Head
+
+item.spawn_egg.entity.fmh:horse_chestnut.name=Chestnut Horse Spawn Egg
+entity.fmh:horse_chestnut.name=Chestnut Horse
+action.hint.exit.fmh:horse_chestnut=Jump to Exit
+item.fmh:horse_chestnut_item=Chestnut Horse Head
+
+item.spawn_egg.entity.fmh:horse_creamy.name=Creamy Horse Spawn Egg
+entity.fmh:horse_creamy.name=Creamy Horse
+action.hint.exit.fmh:horse_creamy=Jump to Exit
+item.fmh:horse_creamy_item=Creamy Horse Head
+
+item.spawn_egg.entity.fmh:horse_dark_brown.name=Dark Brown Horse Spawn Egg
+entity.fmh:horse_dark_brown.name=Dark Brown Horse
+action.hint.exit.fmh:horse_dark_brown=Jump to Exit
+item.fmh:horse_dark_brown_item=Dark Brown Horse Head
+
+item.spawn_egg.entity.fmh:horse_gray.name=Gray Horse Spawn Egg
+entity.fmh:horse_gray.name=Gray Horse
+action.hint.exit.fmh:horse_gray=Jump to Exit
+item.fmh:horse_gray_item=Gray Horse Head
+
+item.spawn_egg.entity.fmh:horse_skeleton.name=Skeleton Horse Spawn Egg
+entity.fmh:horse_skeleton.name=Skeleton Horse
+action.hint.exit.fmh:horse_skeleton=Jump to Exit
+item.fmh:horse_skeleton_item=Skeleton Horse Head
+
+item.spawn_egg.entity.fmh:horse_white.name=White Horse Spawn Egg
+entity.fmh:horse_white.name=White Horse
+action.hint.exit.fmh:horse_white=Jump to Exit
+item.fmh:horse_white_item=White Horse Head
+
+item.spawn_egg.entity.fmh:husk.name=Husk Spawn Egg
+entity.fmh:husk.name=Husk
+action.hint.exit.fmh:husk=Jump to Exit
+item.fmh:husk_item=Husk Head
+
+item.spawn_egg.entity.fmh:iron_golem.name=Iron Golem Spawn Egg
+entity.fmh:iron_golem.name=Iron Golem
+action.hint.exit.fmh:iron_golem=Jump to Exit
+item.fmh:iron_golem_item=Iron Golem Head
+
+item.spawn_egg.entity.fmh:llama_brown.name=Brown Llama Spawn Egg
+entity.fmh:llama_brown.name=Brown Llama
+action.hint.exit.fmh:llama_brown=Jump to Exit
+item.fmh:llama_brown_item=Brown Llama Head
+
+item.spawn_egg.entity.fmh:llama_creamy.name=Creamy Llama Spawn Egg
+entity.fmh:llama_creamy.name=Creamy Llama
+action.hint.exit.fmh:llama_creamy=Jump to Exit
+item.fmh:llama_creamy_item=Creamy Llama Head
+
+item.spawn_egg.entity.fmh:llama_light_gray.name=Light Gray Llama Spawn Egg
+entity.fmh:llama_light_gray.name=Light Gray Llama
+action.hint.exit.fmh:llama_light_gray=Jump to Exit
+item.fmh:llama_light_gray_item=Light Gray Llama Head
+
+item.spawn_egg.entity.fmh:llama_white.name=White Llama Spawn Egg
+entity.fmh:llama_white.name=White Llama
+action.hint.exit.fmh:llama_white=Jump to Exit
+item.fmh:llama_white_item=White Llama Head
+
+item.spawn_egg.entity.fmh:magma_cube.name=Magma Cube Spawn Egg
+entity.fmh:magma_cube.name=Magma Cube
+action.hint.exit.fmh:magma_cube=Jump to Exit
+item.fmh:magma_cube_item=Magma Cube Head
+
+item.spawn_egg.entity.fmh:mooshroom_brown.name=Brown Mooshroom Spawn Egg
+entity.fmh:mooshroom_brown.name=Brown Mooshroom
+action.hint.exit.fmh:mooshroom_brown=Jump to Exit
+item.fmh:mooshroom_brown_item=Brown Mooshroom Head
+
+item.spawn_egg.entity.fmh:mooshroom_red.name=Red Mooshroom Spawn Egg
+entity.fmh:mooshroom_red.name=Red Mooshroom
+action.hint.exit.fmh:mooshroom_red=Jump to Exit
+item.fmh:mooshroom_red_item=Red Mooshroom Head
+
+item.spawn_egg.entity.fmh:mule.name=Mule Spawn Egg
+entity.fmh:mule.name=Mule
+action.hint.exit.fmh:mule=Jump to Exit
+item.fmh:mule_item=Mule Head
+
+item.spawn_egg.entity.fmh:ocelot.name=Ocelot Spawn Egg
+entity.fmh:ocelot.name=Ocelot
+action.hint.exit.fmh:ocelot=Jump to Exit
+item.fmh:ocelot_item=Ocelot Head
+
+item.spawn_egg.entity.fmh:panda_aggressive.name=Aggressive Panda Spawn Egg
+entity.fmh:panda_aggressive.name=Aggressive Panda
+action.hint.exit.fmh:panda_aggressive=Jump to Exit
+item.fmh:panda_aggressive_item=Aggressive Panda Head
+
+item.spawn_egg.entity.fmh:panda_brown.name=Brown Panda Spawn Egg
+entity.fmh:panda_brown.name=Brown Panda
+action.hint.exit.fmh:panda_brown=Jump to Exit
+item.fmh:panda_brown_item=Brown Panda Head
+
+item.spawn_egg.entity.fmh:panda_lazy.name=Lazy Panda Spawn Egg
+entity.fmh:panda_lazy.name=Lazy Panda
+action.hint.exit.fmh:panda_lazy=Jump to Exit
+item.fmh:panda_lazy_item=Lazy Panda Head
+
+item.spawn_egg.entity.fmh:panda_playful.name=Playful Panda Spawn Egg
+entity.fmh:panda_playful.name=Playful Panda
+action.hint.exit.fmh:panda_playful=Jump to Exit
+item.fmh:panda_playful_item=Playful Panda Head
+
+item.spawn_egg.entity.fmh:panda_sneezy.name=Sneezy Panda Spawn Egg
+entity.fmh:panda_sneezy.name=Sneezy Panda
+action.hint.exit.fmh:panda_sneezy=Jump to Exit
+item.fmh:panda_sneezy_item=Sneezy Panda Head
+
+item.spawn_egg.entity.fmh:panda_worried.name=Worried Panda Spawn Egg
+entity.fmh:panda_worried.name=Worried Panda
+action.hint.exit.fmh:panda_worried=Jump to Exit
+item.fmh:panda_worried_item=Worried Panda Head
+
+item.spawn_egg.entity.fmh:panda.name=Panda Spawn Egg
+entity.fmh:panda.name=Panda
+action.hint.exit.fmh:panda=Jump to Exit
+item.fmh:panda_item=Panda Head
+
+item.spawn_egg.entity.fmh:parrot_blue.name=Blue Parrot Spawn Egg
+entity.fmh:parrot_blue.name=Blue Parrot
+action.hint.exit.fmh:parrot_blue=Jump to Exit
+item.fmh:parrot_blue_item=Blue Parrot Head
+
+item.spawn_egg.entity.fmh:parrot_cyan.name=Cyan Parrot Spawn Egg
+entity.fmh:parrot_cyan.name=Cyan Parrot
+action.hint.exit.fmh:parrot_cyan=Jump to Exit
+item.fmh:parrot_cyan_item=Cyan Parrot Head
+
+item.spawn_egg.entity.fmh:parrot_gray.name=Gray Parrot Spawn Egg
+entity.fmh:parrot_gray.name=Gray Parrot
+action.hint.exit.fmh:parrot_gray=Jump to Exit
+item.fmh:parrot_gray_item=Gray Parrot Head
+
+item.spawn_egg.entity.fmh:parrot_green.name=Green Parrot Spawn Egg
+entity.fmh:parrot_green.name=Green Parrot
+action.hint.exit.fmh:parrot_green=Jump to Exit
+item.fmh:parrot_green_item=Green Parrot Head
+
+item.spawn_egg.entity.fmh:parrot_red.name=Red Parrot Spawn Egg
+entity.fmh:parrot_red.name=Red Parrot
+action.hint.exit.fmh:parrot_red=Jump to Exit
+item.fmh:parrot_red_item=Red Parrot Head
+
+item.spawn_egg.entity.fmh:phantom.name=Phantom Spawn Egg
+entity.fmh:phantom.name=Phantom
+action.hint.exit.fmh:phantom=Jump to Exit
+item.fmh:phantom_item=Phantom Head
+
+item.spawn_egg.entity.fmh:pig.name=Pig Spawn Egg
+entity.fmh:pig.name=Pig
+action.hint.exit.fmh:pig=Jump to Exit
+item.fmh:pig_item=Pig Head
+
+item.spawn_egg.entity.fmh:piglin.name=Piglin Spawn Egg
+entity.fmh:piglin.name=Piglin
+action.hint.exit.fmh:piglin=Jump to Exit
+item.fmh:piglin_item=Piglin Head
+
+item.spawn_egg.entity.fmh:piglin_brute.name=Piglin Brute Spawn Egg
+entity.fmh:piglin_brute.name=Piglin Brute
+action.hint.exit.fmh:piglin_brute=Jump to Exit
+item.fmh:piglin_brute_item=Piglin Brute Head
+
+item.spawn_egg.entity.fmh:pillager.name=Pillager Spawn Egg
+entity.fmh:pillager.name=Pillager
+action.hint.exit.fmh:pillager=Jump to Exit
+item.fmh:pillager_item=Pillager Head
+
+item.spawn_egg.entity.fmh:polar_bear.name=Polar Bear Spawn Egg
+entity.fmh:polar_bear.name=Polar Bear
+action.hint.exit.fmh:polar_bear=Jump to Exit
+item.fmh:polar_bear_item=Polar Bear Head
+
+item.spawn_egg.entity.fmh:pufferfish.name=Pufferfish Spawn Egg
+entity.fmh:pufferfish.name=Pufferfish
+action.hint.exit.fmh:pufferfish=Jump to Exit
+item.fmh:pufferfish_item=Pufferfish Head
+
+item.spawn_egg.entity.fmh:rabbit_black.name=Black Rabbit Spawn Egg
+entity.fmh:rabbit_black.name=Black Rabbit
+action.hint.exit.fmh:rabbit_black=Jump to Exit
+item.fmh:rabbit_black_item=Black Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_brown.name=Brown Rabbit Spawn Egg
+entity.fmh:rabbit_brown.name=Brown Rabbit
+action.hint.exit.fmh:rabbit_brown=Jump to Exit
+item.fmh:rabbit_brown_item=Brown Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_gold.name=Gold Rabbit Spawn Egg
+entity.fmh:rabbit_gold.name=Gold Rabbit
+action.hint.exit.fmh:rabbit_gold=Jump to Exit
+item.fmh:rabbit_gold_item=Gold Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_salt.name=Salt Rabbit Spawn Egg
+entity.fmh:rabbit_salt.name=Salt Rabbit
+action.hint.exit.fmh:rabbit_salt=Jump to Exit
+item.fmh:rabbit_salt_item=Salt Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_toast.name=Toast Rabbit Spawn Egg
+entity.fmh:rabbit_toast.name=Toast Rabbit
+action.hint.exit.fmh:rabbit_toast=Jump to Exit
+item.fmh:rabbit_toast_item=Toast Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_white.name=White Rabbit Spawn Egg
+entity.fmh:rabbit_white.name=White Rabbit
+action.hint.exit.fmh:rabbit_white=Jump to Exit
+item.fmh:rabbit_white_item=White Rabbit Head
+
+item.spawn_egg.entity.fmh:rabbit_white_splotched.name=White Splotched Rabbit Spawn Egg
+entity.fmh:rabbit_white_splotched.name=White Splotched Rabbit
+action.hint.exit.fmh:rabbit_white_splotched=Jump to Exit
+item.fmh:rabbit_white_splotched_item=White Splotched Rabbit Head
+
+item.spawn_egg.entity.fmh:ravager.name=Ravager Spawn Egg
+entity.fmh:ravager.name=Ravager
+action.hint.exit.fmh:ravager=Jump to Exit
+item.fmh:ravager_item=Ravager Head
+
+item.spawn_egg.entity.fmh:salmon.name=Salmon Spawn Egg
+entity.fmh:salmon.name=Salmon
+action.hint.exit.fmh:salmon=Jump to Exit
+item.fmh:salmon_item=Salmon Head
+
+item.spawn_egg.entity.fmh:sheep_black.name=Black Sheep Spawn Egg
+entity.fmh:sheep_black.name=Black Sheep
+action.hint.exit.fmh:sheep_black=Jump to Exit
+item.fmh:sheep_black_item=Black Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_blue.name=Blue Sheep Spawn Egg
+entity.fmh:sheep_blue.name=Blue Sheep
+action.hint.exit.fmh:sheep_blue=Jump to Exit
+item.fmh:sheep_blue_item=Blue Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_brown.name=Brown Sheep Spawn Egg
+entity.fmh:sheep_brown.name=Brown Sheep
+action.hint.exit.fmh:sheep_brown=Jump to Exit
+item.fmh:sheep_brown_item=Brown Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_cyan.name=Cyan Sheep Spawn Egg
+entity.fmh:sheep_cyan.name=Cyan Sheep
+action.hint.exit.fmh:sheep_cyan=Jump to Exit
+item.fmh:sheep_cyan_item=Cyan Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_gray.name=Gray Sheep Spawn Egg
+entity.fmh:sheep_gray.name=Gray Sheep
+action.hint.exit.fmh:sheep_gray=Jump to Exit
+item.fmh:sheep_gray_item=Gray Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_green.name=Green Sheep Spawn Egg
+entity.fmh:sheep_green.name=Green Sheep
+action.hint.exit.fmh:sheep_green=Jump to Exit
+item.fmh:sheep_green_item=Green Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_jeb.name=Jeb Sheep Spawn Egg
+entity.fmh:sheep_jeb.name=Jeb Sheep
+action.hint.exit.fmh:sheep_jeb=Jump to Exit
+item.fmh:sheep_jeb_item=Jeb Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_light_blue.name=Light Blue Sheep Spawn Egg
+entity.fmh:sheep_light_blue.name=Light Blue Sheep
+action.hint.exit.fmh:sheep_light_blue=Jump to Exit
+item.fmh:sheep_light_blue_item=Light Blue Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_light_gray.name=Light Gray Sheep Spawn Egg
+entity.fmh:sheep_light_gray.name=Light Gray Sheep
+action.hint.exit.fmh:sheep_light_gray=Jump to Exit
+item.fmh:sheep_light_gray_item=Light Gray Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_lime.name=Lime Sheep Spawn Egg
+entity.fmh:sheep_lime.name=Lime Sheep
+action.hint.exit.fmh:sheep_lime=Jump to Exit
+item.fmh:sheep_lime_item=Lime Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_magenta.name=Magenta Sheep Spawn Egg
+entity.fmh:sheep_magenta.name=Magenta Sheep
+action.hint.exit.fmh:sheep_magenta=Jump to Exit
+item.fmh:sheep_magenta_item=Magenta Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_orange.name=Orange Sheep Spawn Egg
+entity.fmh:sheep_orange.name=Orange Sheep
+action.hint.exit.fmh:sheep_orange=Jump to Exit
+item.fmh:sheep_orange_item=Orange Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_pink.name=Pink Sheep Spawn Egg
+entity.fmh:sheep_pink.name=Pink Sheep
+action.hint.exit.fmh:sheep_pink=Jump to Exit
+item.fmh:sheep_pink_item=Pink Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_purple.name=Purple Sheep Spawn Egg
+entity.fmh:sheep_purple.name=Purple Sheep
+action.hint.exit.fmh:sheep_purple=Jump to Exit
+item.fmh:sheep_purple_item=Purple Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_red.name=Red Sheep Spawn Egg
+entity.fmh:sheep_red.name=Red Sheep
+action.hint.exit.fmh:sheep_red=Jump to Exit
+item.fmh:sheep_red_item=Red Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_white.name=White Sheep Spawn Egg
+entity.fmh:sheep_white.name=White Sheep
+action.hint.exit.fmh:sheep_white=Jump to Exit
+item.fmh:sheep_white_item=White Sheep Head
+
+item.spawn_egg.entity.fmh:sheep_yellow.name=Yellow Sheep Spawn Egg
+entity.fmh:sheep_yellow.name=Yellow Sheep
+action.hint.exit.fmh:sheep_yellow=Jump to Exit
+item.fmh:sheep_yellow_item=Yellow Sheep Head
+
+item.spawn_egg.entity.fmh:shulker.name=Shulker Spawn Egg
+entity.fmh:shulker.name=Shulker
+action.hint.exit.fmh:shulker=Jump to Exit
+item.fmh:shulker_item=Shulker Head
+
+item.spawn_egg.entity.fmh:silverfish.name=Silverfish Spawn Egg
+entity.fmh:silverfish.name=Silverfish
+action.hint.exit.fmh:silverfish=Jump to Exit
+item.fmh:silverfish_item=Silverfish Head
+
+item.spawn_egg.entity.fmh:slime.name=Slime Spawn Egg
+entity.fmh:slime.name=Slime
+action.hint.exit.fmh:slime=Jump to Exit
+item.fmh:slime_item=Slime Head
+
+item.spawn_egg.entity.fmh:snow_golem.name=Snow Golem Spawn Egg
+entity.fmh:snow_golem.name=Snow Golem
+action.hint.exit.fmh:snow_golem=Jump to Exit
+item.fmh:snow_golem_item=Snow Golem Head
+
+item.spawn_egg.entity.fmh:spider.name=Spider Spawn Egg
+entity.fmh:spider.name=Spider
+action.hint.exit.fmh:spider=Jump to Exit
+item.fmh:spider_item=Spider Head
+
+item.spawn_egg.entity.fmh:squid.name=Squid Spawn Egg
+entity.fmh:squid.name=Squid
+action.hint.exit.fmh:squid=Jump to Exit
+item.fmh:squid_item=Squid Head
+
+item.spawn_egg.entity.fmh:stray.name=Stray Spawn Egg
+entity.fmh:stray.name=Stray
+action.hint.exit.fmh:stray=Jump to Exit
+item.fmh:stray_item=Stray Head
+
+item.spawn_egg.entity.fmh:strider_shiver.name=Shiver Strider Spawn Egg
+entity.fmh:strider_shiver.name=Shiver Strider
+action.hint.exit.fmh:strider_shiver=Jump to Exit
+item.fmh:strider_shiver_item=Shiver Strider Head
+
+item.spawn_egg.entity.fmh:strider.name=Strider Spawn Egg
+entity.fmh:strider.name=Strider
+action.hint.exit.fmh:strider=Jump to Exit
+item.fmh:strider_item=Strider Head
+
+item.spawn_egg.entity.fmh:tropical_fish.name=Tropical Fish Spawn Egg
+entity.fmh:tropical_fish.name=Tropical Fish
+action.hint.exit.fmh:tropical_fish=Jump to Exit
+item.fmh:tropical_fish_item=Tropical Fish Head
+
+item.spawn_egg.entity.fmh:turtle.name=Turtle Spawn Egg
+entity.fmh:turtle.name=Turtle
+action.hint.exit.fmh:turtle=Jump to Exit
+item.fmh:turtle_item=Turtle Head
+
+item.spawn_egg.entity.fmh:vex.name=Vex Spawn Egg
+entity.fmh:vex.name=Vex
+action.hint.exit.fmh:vex=Jump to Exit
+item.fmh:vex_item=Vex Head
+
+item.spawn_egg.entity.fmh:villager_desert_armorer.name=Desert Armorer Villager Spawn Egg
+entity.fmh:villager_desert_armorer.name=Desert Armorer Villager
+action.hint.exit.fmh:villager_desert_armorer=Jump to Exit
+item.fmh:villager_desert_armorer_item=Desert Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_butcher.name=Desert Butcher Villager Spawn Egg
+entity.fmh:villager_desert_butcher.name=Desert Butcher Villager
+action.hint.exit.fmh:villager_desert_butcher=Jump to Exit
+item.fmh:villager_desert_butcher_item=Desert Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_cartographer.name=Desert Cartographer Villager Spawn Egg
+entity.fmh:villager_desert_cartographer.name=Desert Cartographer Villager
+action.hint.exit.fmh:villager_desert_cartographer=Jump to Exit
+item.fmh:villager_desert_cartographer_item=Desert Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_cleric.name=Desert Cleric Villager Spawn Egg
+entity.fmh:villager_desert_cleric.name=Desert Cleric Villager
+action.hint.exit.fmh:villager_desert_cleric=Jump to Exit
+item.fmh:villager_desert_cleric_item=Desert Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_farmer.name=Desert Farmer Villager Spawn Egg
+entity.fmh:villager_desert_farmer.name=Desert Farmer Villager
+action.hint.exit.fmh:villager_desert_farmer=Jump to Exit
+item.fmh:villager_desert_farmer_item=Desert Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_fisherman.name=Desert Fisherman Villager Spawn Egg
+entity.fmh:villager_desert_fisherman.name=Desert Fisherman Villager
+action.hint.exit.fmh:villager_desert_fisherman=Jump to Exit
+item.fmh:villager_desert_fisherman_item=Desert Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_fletcher.name=Desert Fletcher Villager Spawn Egg
+entity.fmh:villager_desert_fletcher.name=Desert Fletcher Villager
+action.hint.exit.fmh:villager_desert_fletcher=Jump to Exit
+item.fmh:villager_desert_fletcher_item=Desert Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_leatherworker.name=Desert Leatherworker Villager Spawn Egg
+entity.fmh:villager_desert_leatherworker.name=Desert Leatherworker Villager
+action.hint.exit.fmh:villager_desert_leatherworker=Jump to Exit
+item.fmh:villager_desert_leatherworker_item=Desert Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_librarian.name=Desert Librarian Villager Spawn Egg
+entity.fmh:villager_desert_librarian.name=Desert Librarian Villager
+action.hint.exit.fmh:villager_desert_librarian=Jump to Exit
+item.fmh:villager_desert_librarian_item=Desert Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_nitwit.name=Desert Nitwit Villager Spawn Egg
+entity.fmh:villager_desert_nitwit.name=Desert Nitwit Villager
+action.hint.exit.fmh:villager_desert_nitwit=Jump to Exit
+item.fmh:villager_desert_nitwit_item=Desert Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_shepherd.name=Desert Shepherd Villager Spawn Egg
+entity.fmh:villager_desert_shepherd.name=Desert Shepherd Villager
+action.hint.exit.fmh:villager_desert_shepherd=Jump to Exit
+item.fmh:villager_desert_shepherd_item=Desert Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_stonemason.name=Desert Stonemason Villager Spawn Egg
+entity.fmh:villager_desert_stonemason.name=Desert Stonemason Villager
+action.hint.exit.fmh:villager_desert_stonemason=Jump to Exit
+item.fmh:villager_desert_stonemason_item=Desert Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_toolsmith.name=Desert Toolsmith Villager Spawn Egg
+entity.fmh:villager_desert_toolsmith.name=Desert Toolsmith Villager
+action.hint.exit.fmh:villager_desert_toolsmith=Jump to Exit
+item.fmh:villager_desert_toolsmith_item=Desert Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_unskilled.name=Desert Unskilled Villager Spawn Egg
+entity.fmh:villager_desert_unskilled.name=Desert Unskilled Villager
+action.hint.exit.fmh:villager_desert_unskilled=Jump to Exit
+item.fmh:villager_desert_unskilled_item=Desert Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_desert_weaponsmith.name=Desert Weaponsmith Villager Spawn Egg
+entity.fmh:villager_desert_weaponsmith.name=Desert Weaponsmith Villager
+action.hint.exit.fmh:villager_desert_weaponsmith=Jump to Exit
+item.fmh:villager_desert_weaponsmith_item=Desert Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_armorer.name=Jungle Armorer Villager Spawn Egg
+entity.fmh:villager_jungle_armorer.name=Jungle Armorer Villager
+action.hint.exit.fmh:villager_jungle_armorer=Jump to Exit
+item.fmh:villager_jungle_armorer_item=Jungle Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_butcher.name=Jungle Butcher Villager Spawn Egg
+entity.fmh:villager_jungle_butcher.name=Jungle Butcher Villager
+action.hint.exit.fmh:villager_jungle_butcher=Jump to Exit
+item.fmh:villager_jungle_butcher_item=Jungle Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_cartographer.name=Jungle Cartographer Villager Spawn Egg
+entity.fmh:villager_jungle_cartographer.name=Jungle Cartographer Villager
+action.hint.exit.fmh:villager_jungle_cartographer=Jump to Exit
+item.fmh:villager_jungle_cartographer_item=Jungle Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_cleric.name=Jungle Cleric Villager Spawn Egg
+entity.fmh:villager_jungle_cleric.name=Jungle Cleric Villager
+action.hint.exit.fmh:villager_jungle_cleric=Jump to Exit
+item.fmh:villager_jungle_cleric_item=Jungle Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_farmer.name=Jungle Farmer Villager Spawn Egg
+entity.fmh:villager_jungle_farmer.name=Jungle Farmer Villager
+action.hint.exit.fmh:villager_jungle_farmer=Jump to Exit
+item.fmh:villager_jungle_farmer_item=Jungle Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_fisherman.name=Jungle Fisherman Villager Spawn Egg
+entity.fmh:villager_jungle_fisherman.name=Jungle Fisherman Villager
+action.hint.exit.fmh:villager_jungle_fisherman=Jump to Exit
+item.fmh:villager_jungle_fisherman_item=Jungle Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_fletcher.name=Jungle Fletcher Villager Spawn Egg
+entity.fmh:villager_jungle_fletcher.name=Jungle Fletcher Villager
+action.hint.exit.fmh:villager_jungle_fletcher=Jump to Exit
+item.fmh:villager_jungle_fletcher_item=Jungle Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_leatherworker.name=Jungle Leatherworker Villager Spawn Egg
+entity.fmh:villager_jungle_leatherworker.name=Jungle Leatherworker Villager
+action.hint.exit.fmh:villager_jungle_leatherworker=Jump to Exit
+item.fmh:villager_jungle_leatherworker_item=Jungle Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_librarian.name=Jungle Librarian Villager Spawn Egg
+entity.fmh:villager_jungle_librarian.name=Jungle Librarian Villager
+action.hint.exit.fmh:villager_jungle_librarian=Jump to Exit
+item.fmh:villager_jungle_librarian_item=Jungle Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_nitwit.name=Jungle Nitwit Villager Spawn Egg
+entity.fmh:villager_jungle_nitwit.name=Jungle Nitwit Villager
+action.hint.exit.fmh:villager_jungle_nitwit=Jump to Exit
+item.fmh:villager_jungle_nitwit_item=Jungle Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_shepherd.name=Jungle Shepherd Villager Spawn Egg
+entity.fmh:villager_jungle_shepherd.name=Jungle Shepherd Villager
+action.hint.exit.fmh:villager_jungle_shepherd=Jump to Exit
+item.fmh:villager_jungle_shepherd_item=Jungle Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_stonemason.name=Jungle Stonemason Villager Spawn Egg
+entity.fmh:villager_jungle_stonemason.name=Jungle Stonemason Villager
+action.hint.exit.fmh:villager_jungle_stonemason=Jump to Exit
+item.fmh:villager_jungle_stonemason_item=Jungle Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_toolsmith.name=Jungle Toolsmith Villager Spawn Egg
+entity.fmh:villager_jungle_toolsmith.name=Jungle Toolsmith Villager
+action.hint.exit.fmh:villager_jungle_toolsmith=Jump to Exit
+item.fmh:villager_jungle_toolsmith_item=Jungle Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_unskilled.name=Jungle Unskilled Villager Spawn Egg
+entity.fmh:villager_jungle_unskilled.name=Jungle Unskilled Villager
+action.hint.exit.fmh:villager_jungle_unskilled=Jump to Exit
+item.fmh:villager_jungle_unskilled_item=Jungle Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_jungle_weaponsmith.name=Jungle Weaponsmith Villager Spawn Egg
+entity.fmh:villager_jungle_weaponsmith.name=Jungle Weaponsmith Villager
+action.hint.exit.fmh:villager_jungle_weaponsmith=Jump to Exit
+item.fmh:villager_jungle_weaponsmith_item=Jungle Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_armorer.name=Plains Armorer Villager Spawn Egg
+entity.fmh:villager_plains_armorer.name=Plains Armorer Villager
+action.hint.exit.fmh:villager_plains_armorer=Jump to Exit
+item.fmh:villager_plains_armorer_item=Plains Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_butcher.name=Plains Butcher Villager Spawn Egg
+entity.fmh:villager_plains_butcher.name=Plains Butcher Villager
+action.hint.exit.fmh:villager_plains_butcher=Jump to Exit
+item.fmh:villager_plains_butcher_item=Plains Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_cartographer.name=Plains Cartographer Villager Spawn Egg
+entity.fmh:villager_plains_cartographer.name=Plains Cartographer Villager
+action.hint.exit.fmh:villager_plains_cartographer=Jump to Exit
+item.fmh:villager_plains_cartographer_item=Plains Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_cleric.name=Plains Cleric Villager Spawn Egg
+entity.fmh:villager_plains_cleric.name=Plains Cleric Villager
+action.hint.exit.fmh:villager_plains_cleric=Jump to Exit
+item.fmh:villager_plains_cleric_item=Plains Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_farmer.name=Plains Farmer Villager Spawn Egg
+entity.fmh:villager_plains_farmer.name=Plains Farmer Villager
+action.hint.exit.fmh:villager_plains_farmer=Jump to Exit
+item.fmh:villager_plains_farmer_item=Plains Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_fisherman.name=Plains Fisherman Villager Spawn Egg
+entity.fmh:villager_plains_fisherman.name=Plains Fisherman Villager
+action.hint.exit.fmh:villager_plains_fisherman=Jump to Exit
+item.fmh:villager_plains_fisherman_item=Plains Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_fletcher.name=Plains Fletcher Villager Spawn Egg
+entity.fmh:villager_plains_fletcher.name=Plains Fletcher Villager
+action.hint.exit.fmh:villager_plains_fletcher=Jump to Exit
+item.fmh:villager_plains_fletcher_item=Plains Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_leatherworker.name=Plains Leatherworker Villager Spawn Egg
+entity.fmh:villager_plains_leatherworker.name=Plains Leatherworker Villager
+action.hint.exit.fmh:villager_plains_leatherworker=Jump to Exit
+item.fmh:villager_plains_leatherworker_item=Plains Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_librarian.name=Plains Librarian Villager Spawn Egg
+entity.fmh:villager_plains_librarian.name=Plains Librarian Villager
+action.hint.exit.fmh:villager_plains_librarian=Jump to Exit
+item.fmh:villager_plains_librarian_item=Plains Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_nitwit.name=Plains Nitwit Villager Spawn Egg
+entity.fmh:villager_plains_nitwit.name=Plains Nitwit Villager
+action.hint.exit.fmh:villager_plains_nitwit=Jump to Exit
+item.fmh:villager_plains_nitwit_item=Plains Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_shepherd.name=Plains Shepherd Villager Spawn Egg
+entity.fmh:villager_plains_shepherd.name=Plains Shepherd Villager
+action.hint.exit.fmh:villager_plains_shepherd=Jump to Exit
+item.fmh:villager_plains_shepherd_item=Plains Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_stonemason.name=Plains Stonemason Villager Spawn Egg
+entity.fmh:villager_plains_stonemason.name=Plains Stonemason Villager
+action.hint.exit.fmh:villager_plains_stonemason=Jump to Exit
+item.fmh:villager_plains_stonemason_item=Plains Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_toolsmith.name=Plains Toolsmith Villager Spawn Egg
+entity.fmh:villager_plains_toolsmith.name=Plains Toolsmith Villager
+action.hint.exit.fmh:villager_plains_toolsmith=Jump to Exit
+item.fmh:villager_plains_toolsmith_item=Plains Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_unskilled.name=Plains Unskilled Villager Spawn Egg
+entity.fmh:villager_plains_unskilled.name=Plains Unskilled Villager
+action.hint.exit.fmh:villager_plains_unskilled=Jump to Exit
+item.fmh:villager_plains_unskilled_item=Plains Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_plains_weaponsmith.name=Plains Weaponsmith Villager Spawn Egg
+entity.fmh:villager_plains_weaponsmith.name=Plains Weaponsmith Villager
+action.hint.exit.fmh:villager_plains_weaponsmith=Jump to Exit
+item.fmh:villager_plains_weaponsmith_item=Plains Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_armorer.name=Savanna Armorer Villager Spawn Egg
+entity.fmh:villager_savanna_armorer.name=Savanna Armorer Villager
+action.hint.exit.fmh:villager_savanna_armorer=Jump to Exit
+item.fmh:villager_savanna_armorer_item=Savanna Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_butcher.name=Savanna Butcher Villager Spawn Egg
+entity.fmh:villager_savanna_butcher.name=Savanna Butcher Villager
+action.hint.exit.fmh:villager_savanna_butcher=Jump to Exit
+item.fmh:villager_savanna_butcher_item=Savanna Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_cartographer.name=Savanna Cartographer Villager Spawn Egg
+entity.fmh:villager_savanna_cartographer.name=Savanna Cartographer Villager
+action.hint.exit.fmh:villager_savanna_cartographer=Jump to Exit
+item.fmh:villager_savanna_cartographer_item=Savanna Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_cleric.name=Savanna Cleric Villager Spawn Egg
+entity.fmh:villager_savanna_cleric.name=Savanna Cleric Villager
+action.hint.exit.fmh:villager_savanna_cleric=Jump to Exit
+item.fmh:villager_savanna_cleric_item=Savanna Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_farmer.name=Savanna Farmer Villager Spawn Egg
+entity.fmh:villager_savanna_farmer.name=Savanna Farmer Villager
+action.hint.exit.fmh:villager_savanna_farmer=Jump to Exit
+item.fmh:villager_savanna_farmer_item=Savanna Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_fisherman.name=Savanna Fisherman Villager Spawn Egg
+entity.fmh:villager_savanna_fisherman.name=Savanna Fisherman Villager
+action.hint.exit.fmh:villager_savanna_fisherman=Jump to Exit
+item.fmh:villager_savanna_fisherman_item=Savanna Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_fletcher.name=Savanna Fletcher Villager Spawn Egg
+entity.fmh:villager_savanna_fletcher.name=Savanna Fletcher Villager
+action.hint.exit.fmh:villager_savanna_fletcher=Jump to Exit
+item.fmh:villager_savanna_fletcher_item=Savanna Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_leatherworker.name=Savanna Leatherworker Villager Spawn Egg
+entity.fmh:villager_savanna_leatherworker.name=Savanna Leatherworker Villager
+action.hint.exit.fmh:villager_savanna_leatherworker=Jump to Exit
+item.fmh:villager_savanna_leatherworker_item=Savanna Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_librarian.name=Savanna Librarian Villager Spawn Egg
+entity.fmh:villager_savanna_librarian.name=Savanna Librarian Villager
+action.hint.exit.fmh:villager_savanna_librarian=Jump to Exit
+item.fmh:villager_savanna_librarian_item=Savanna Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_nitwit.name=Savanna Nitwit Villager Spawn Egg
+entity.fmh:villager_savanna_nitwit.name=Savanna Nitwit Villager
+action.hint.exit.fmh:villager_savanna_nitwit=Jump to Exit
+item.fmh:villager_savanna_nitwit_item=Savanna Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_shepherd.name=Savanna Shepherd Villager Spawn Egg
+entity.fmh:villager_savanna_shepherd.name=Savanna Shepherd Villager
+action.hint.exit.fmh:villager_savanna_shepherd=Jump to Exit
+item.fmh:villager_savanna_shepherd_item=Savanna Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_stonemason.name=Savanna Stonemason Villager Spawn Egg
+entity.fmh:villager_savanna_stonemason.name=Savanna Stonemason Villager
+action.hint.exit.fmh:villager_savanna_stonemason=Jump to Exit
+item.fmh:villager_savanna_stonemason_item=Savanna Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_toolsmith.name=Savanna Toolsmith Villager Spawn Egg
+entity.fmh:villager_savanna_toolsmith.name=Savanna Toolsmith Villager
+action.hint.exit.fmh:villager_savanna_toolsmith=Jump to Exit
+item.fmh:villager_savanna_toolsmith_item=Savanna Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_unskilled.name=Savanna Unskilled Villager Spawn Egg
+entity.fmh:villager_savanna_unskilled.name=Savanna Unskilled Villager
+action.hint.exit.fmh:villager_savanna_unskilled=Jump to Exit
+item.fmh:villager_savanna_unskilled_item=Savanna Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_savanna_weaponsmith.name=Savanna Weaponsmith Villager Spawn Egg
+entity.fmh:villager_savanna_weaponsmith.name=Savanna Weaponsmith Villager
+action.hint.exit.fmh:villager_savanna_weaponsmith=Jump to Exit
+item.fmh:villager_savanna_weaponsmith_item=Savanna Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_armorer.name=Snow Armorer Villager Spawn Egg
+entity.fmh:villager_snow_armorer.name=Snow Armorer Villager
+action.hint.exit.fmh:villager_snow_armorer=Jump to Exit
+item.fmh:villager_snow_armorer_item=Snow Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_butcher.name=Snow Butcher Villager Spawn Egg
+entity.fmh:villager_snow_butcher.name=Snow Butcher Villager
+action.hint.exit.fmh:villager_snow_butcher=Jump to Exit
+item.fmh:villager_snow_butcher_item=Snow Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_cartographer.name=Snow Cartographer Villager Spawn Egg
+entity.fmh:villager_snow_cartographer.name=Snow Cartographer Villager
+action.hint.exit.fmh:villager_snow_cartographer=Jump to Exit
+item.fmh:villager_snow_cartographer_item=Snow Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_cleric.name=Snow Cleric Villager Spawn Egg
+entity.fmh:villager_snow_cleric.name=Snow Cleric Villager
+action.hint.exit.fmh:villager_snow_cleric=Jump to Exit
+item.fmh:villager_snow_cleric_item=Snow Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_farmer.name=Snow Farmer Villager Spawn Egg
+entity.fmh:villager_snow_farmer.name=Snow Farmer Villager
+action.hint.exit.fmh:villager_snow_farmer=Jump to Exit
+item.fmh:villager_snow_farmer_item=Snow Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_fisherman.name=Snow Fisherman Villager Spawn Egg
+entity.fmh:villager_snow_fisherman.name=Snow Fisherman Villager
+action.hint.exit.fmh:villager_snow_fisherman=Jump to Exit
+item.fmh:villager_snow_fisherman_item=Snow Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_fletcher.name=Snow Fletcher Villager Spawn Egg
+entity.fmh:villager_snow_fletcher.name=Snow Fletcher Villager
+action.hint.exit.fmh:villager_snow_fletcher=Jump to Exit
+item.fmh:villager_snow_fletcher_item=Snow Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_leatherworker.name=Snow Leatherworker Villager Spawn Egg
+entity.fmh:villager_snow_leatherworker.name=Snow Leatherworker Villager
+action.hint.exit.fmh:villager_snow_leatherworker=Jump to Exit
+item.fmh:villager_snow_leatherworker_item=Snow Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_librarian.name=Snow Librarian Villager Spawn Egg
+entity.fmh:villager_snow_librarian.name=Snow Librarian Villager
+action.hint.exit.fmh:villager_snow_librarian=Jump to Exit
+item.fmh:villager_snow_librarian_item=Snow Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_nitwit.name=Snow Nitwit Villager Spawn Egg
+entity.fmh:villager_snow_nitwit.name=Snow Nitwit Villager
+action.hint.exit.fmh:villager_snow_nitwit=Jump to Exit
+item.fmh:villager_snow_nitwit_item=Snow Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_shepherd.name=Snow Shepherd Villager Spawn Egg
+entity.fmh:villager_snow_shepherd.name=Snow Shepherd Villager
+action.hint.exit.fmh:villager_snow_shepherd=Jump to Exit
+item.fmh:villager_snow_shepherd_item=Snow Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_stonemason.name=Snow Stonemason Villager Spawn Egg
+entity.fmh:villager_snow_stonemason.name=Snow Stonemason Villager
+action.hint.exit.fmh:villager_snow_stonemason=Jump to Exit
+item.fmh:villager_snow_stonemason_item=Snow Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_toolsmith.name=Snow Toolsmith Villager Spawn Egg
+entity.fmh:villager_snow_toolsmith.name=Snow Toolsmith Villager
+action.hint.exit.fmh:villager_snow_toolsmith=Jump to Exit
+item.fmh:villager_snow_toolsmith_item=Snow Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_unskilled.name=Snow Unskilled Villager Spawn Egg
+entity.fmh:villager_snow_unskilled.name=Snow Unskilled Villager
+action.hint.exit.fmh:villager_snow_unskilled=Jump to Exit
+item.fmh:villager_snow_unskilled_item=Snow Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_snow_weaponsmith.name=Snow Weaponsmith Villager Spawn Egg
+entity.fmh:villager_snow_weaponsmith.name=Snow Weaponsmith Villager
+action.hint.exit.fmh:villager_snow_weaponsmith=Jump to Exit
+item.fmh:villager_snow_weaponsmith_item=Snow Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_armorer.name=Swamp Armorer Villager Spawn Egg
+entity.fmh:villager_swamp_armorer.name=Swamp Armorer Villager
+action.hint.exit.fmh:villager_swamp_armorer=Jump to Exit
+item.fmh:villager_swamp_armorer_item=Swamp Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_butcher.name=Swamp Butcher Villager Spawn Egg
+entity.fmh:villager_swamp_butcher.name=Swamp Butcher Villager
+action.hint.exit.fmh:villager_swamp_butcher=Jump to Exit
+item.fmh:villager_swamp_butcher_item=Swamp Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_cartographer.name=Swamp Cartographer Villager Spawn Egg
+entity.fmh:villager_swamp_cartographer.name=Swamp Cartographer Villager
+action.hint.exit.fmh:villager_swamp_cartographer=Jump to Exit
+item.fmh:villager_swamp_cartographer_item=Swamp Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_cleric.name=Swamp Cleric Villager Spawn Egg
+entity.fmh:villager_swamp_cleric.name=Swamp Cleric Villager
+action.hint.exit.fmh:villager_swamp_cleric=Jump to Exit
+item.fmh:villager_swamp_cleric_item=Swamp Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_farmer.name=Swamp Farmer Villager Spawn Egg
+entity.fmh:villager_swamp_farmer.name=Swamp Farmer Villager
+action.hint.exit.fmh:villager_swamp_farmer=Jump to Exit
+item.fmh:villager_swamp_farmer_item=Swamp Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_fisherman.name=Swamp Fisherman Villager Spawn Egg
+entity.fmh:villager_swamp_fisherman.name=Swamp Fisherman Villager
+action.hint.exit.fmh:villager_swamp_fisherman=Jump to Exit
+item.fmh:villager_swamp_fisherman_item=Swamp Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_fletcher.name=Swamp Fletcher Villager Spawn Egg
+entity.fmh:villager_swamp_fletcher.name=Swamp Fletcher Villager
+action.hint.exit.fmh:villager_swamp_fletcher=Jump to Exit
+item.fmh:villager_swamp_fletcher_item=Swamp Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_leatherworker.name=Swamp Leatherworker Villager Spawn Egg
+entity.fmh:villager_swamp_leatherworker.name=Swamp Leatherworker Villager
+action.hint.exit.fmh:villager_swamp_leatherworker=Jump to Exit
+item.fmh:villager_swamp_leatherworker_item=Swamp Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_librarian.name=Swamp Librarian Villager Spawn Egg
+entity.fmh:villager_swamp_librarian.name=Swamp Librarian Villager
+action.hint.exit.fmh:villager_swamp_librarian=Jump to Exit
+item.fmh:villager_swamp_librarian_item=Swamp Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_nitwit.name=Swamp Nitwit Villager Spawn Egg
+entity.fmh:villager_swamp_nitwit.name=Swamp Nitwit Villager
+action.hint.exit.fmh:villager_swamp_nitwit=Jump to Exit
+item.fmh:villager_swamp_nitwit_item=Swamp Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_shepherd.name=Swamp Shepherd Villager Spawn Egg
+entity.fmh:villager_swamp_shepherd.name=Swamp Shepherd Villager
+action.hint.exit.fmh:villager_swamp_shepherd=Jump to Exit
+item.fmh:villager_swamp_shepherd_item=Swamp Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_stonemason.name=Swamp Stonemason Villager Spawn Egg
+entity.fmh:villager_swamp_stonemason.name=Swamp Stonemason Villager
+action.hint.exit.fmh:villager_swamp_stonemason=Jump to Exit
+item.fmh:villager_swamp_stonemason_item=Swamp Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_toolsmith.name=Swamp Toolsmith Villager Spawn Egg
+entity.fmh:villager_swamp_toolsmith.name=Swamp Toolsmith Villager
+action.hint.exit.fmh:villager_swamp_toolsmith=Jump to Exit
+item.fmh:villager_swamp_toolsmith_item=Swamp Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_unskilled.name=Swamp Unskilled Villager Spawn Egg
+entity.fmh:villager_swamp_unskilled.name=Swamp Unskilled Villager
+action.hint.exit.fmh:villager_swamp_unskilled=Jump to Exit
+item.fmh:villager_swamp_unskilled_item=Swamp Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_swamp_weaponsmith.name=Swamp Weaponsmith Villager Spawn Egg
+entity.fmh:villager_swamp_weaponsmith.name=Swamp Weaponsmith Villager
+action.hint.exit.fmh:villager_swamp_weaponsmith=Jump to Exit
+item.fmh:villager_swamp_weaponsmith_item=Swamp Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_armorer.name=Taiga Armorer Villager Spawn Egg
+entity.fmh:villager_taiga_armorer.name=Taiga Armorer Villager
+action.hint.exit.fmh:villager_taiga_armorer=Jump to Exit
+item.fmh:villager_taiga_armorer_item=Taiga Armorer Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_butcher.name=Taiga Butcher Villager Spawn Egg
+entity.fmh:villager_taiga_butcher.name=Taiga Butcher Villager
+action.hint.exit.fmh:villager_taiga_butcher=Jump to Exit
+item.fmh:villager_taiga_butcher_item=Taiga Butcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_cartographer.name=Taiga Cartographer Villager Spawn Egg
+entity.fmh:villager_taiga_cartographer.name=Taiga Cartographer Villager
+action.hint.exit.fmh:villager_taiga_cartographer=Jump to Exit
+item.fmh:villager_taiga_cartographer_item=Taiga Cartographer Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_cleric.name=Taiga Cleric Villager Spawn Egg
+entity.fmh:villager_taiga_cleric.name=Taiga Cleric Villager
+action.hint.exit.fmh:villager_taiga_cleric=Jump to Exit
+item.fmh:villager_taiga_cleric_item=Taiga Cleric Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_farmer.name=Taiga Farmer Villager Spawn Egg
+entity.fmh:villager_taiga_farmer.name=Taiga Farmer Villager
+action.hint.exit.fmh:villager_taiga_farmer=Jump to Exit
+item.fmh:villager_taiga_farmer_item=Taiga Farmer Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_fisherman.name=Taiga Fisherman Villager Spawn Egg
+entity.fmh:villager_taiga_fisherman.name=Taiga Fisherman Villager
+action.hint.exit.fmh:villager_taiga_fisherman=Jump to Exit
+item.fmh:villager_taiga_fisherman_item=Taiga Fisherman Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_fletcher.name=Taiga Fletcher Villager Spawn Egg
+entity.fmh:villager_taiga_fletcher.name=Taiga Fletcher Villager
+action.hint.exit.fmh:villager_taiga_fletcher=Jump to Exit
+item.fmh:villager_taiga_fletcher_item=Taiga Fletcher Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_leatherworker.name=Taiga Leatherworker Villager Spawn Egg
+entity.fmh:villager_taiga_leatherworker.name=Taiga Leatherworker Villager
+action.hint.exit.fmh:villager_taiga_leatherworker=Jump to Exit
+item.fmh:villager_taiga_leatherworker_item=Taiga Leatherworker Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_librarian.name=Taiga Librarian Villager Spawn Egg
+entity.fmh:villager_taiga_librarian.name=Taiga Librarian Villager
+action.hint.exit.fmh:villager_taiga_librarian=Jump to Exit
+item.fmh:villager_taiga_librarian_item=Taiga Librarian Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_nitwit.name=Taiga Nitwit Villager Spawn Egg
+entity.fmh:villager_taiga_nitwit.name=Taiga Nitwit Villager
+action.hint.exit.fmh:villager_taiga_nitwit=Jump to Exit
+item.fmh:villager_taiga_nitwit_item=Taiga Nitwit Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_shepherd.name=Taiga Shepherd Villager Spawn Egg
+entity.fmh:villager_taiga_shepherd.name=Taiga Shepherd Villager
+action.hint.exit.fmh:villager_taiga_shepherd=Jump to Exit
+item.fmh:villager_taiga_shepherd_item=Taiga Shepherd Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_stonemason.name=Taiga Stonemason Villager Spawn Egg
+entity.fmh:villager_taiga_stonemason.name=Taiga Stonemason Villager
+action.hint.exit.fmh:villager_taiga_stonemason=Jump to Exit
+item.fmh:villager_taiga_stonemason_item=Taiga Stonemason Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_toolsmith.name=Taiga Toolsmith Villager Spawn Egg
+entity.fmh:villager_taiga_toolsmith.name=Taiga Toolsmith Villager
+action.hint.exit.fmh:villager_taiga_toolsmith=Jump to Exit
+item.fmh:villager_taiga_toolsmith_item=Taiga Toolsmith Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_unskilled.name=Taiga Unskilled Villager Spawn Egg
+entity.fmh:villager_taiga_unskilled.name=Taiga Unskilled Villager
+action.hint.exit.fmh:villager_taiga_unskilled=Jump to Exit
+item.fmh:villager_taiga_unskilled_item=Taiga Unskilled Villager Head
+
+item.spawn_egg.entity.fmh:villager_taiga_weaponsmith.name=Taiga Weaponsmith Villager Spawn Egg
+entity.fmh:villager_taiga_weaponsmith.name=Taiga Weaponsmith Villager
+action.hint.exit.fmh:villager_taiga_weaponsmith=Jump to Exit
+item.fmh:villager_taiga_weaponsmith_item=Taiga Weaponsmith Villager Head
+
+item.spawn_egg.entity.fmh:vindicator.name=Vindicator Spawn Egg
+entity.fmh:vindicator.name=Vindicator
+action.hint.exit.fmh:vindicator=Jump to Exit
+item.fmh:vindicator_item=Vindicator Head
+
+item.spawn_egg.entity.fmh:wandering_trader.name=Wandering Trader Spawn Egg
+entity.fmh:wandering_trader.name=Wandering Trader
+action.hint.exit.fmh:wandering_trader=Jump to Exit
+item.fmh:wandering_trader_item=Wandering Trader Head
+
+item.spawn_egg.entity.fmh:witch.name=Witch Spawn Egg
+entity.fmh:witch.name=Witch
+action.hint.exit.fmh:witch=Jump to Exit
+item.fmh:witch_item=Witch Head
+
+item.spawn_egg.entity.fmh:armored_wither.name=Armored Wither Spawn Egg
+entity.fmh:armored_wither.name=Armored Wither
+action.hint.exit.fmh:armored_wither=Jump to Exit
+item.fmh:armored_wither_item=Armored Wither Head
+
+item.spawn_egg.entity.fmh:armored_invulnerable_wither.name=Armored Invulnerable Wither Spawn Egg
+entity.fmh:armored_invulnerable_wither.name=Armored Invulnerable Wither
+action.hint.exit.fmh:armored_invulnerable_wither=Jump to Exit
+item.fmh:armored_invulnerable_wither_item=Armored Invulnerable Wither Head
+
+item.spawn_egg.entity.fmh:invulnerable_wither.name=Invulnerable Wither Spawn Egg
+entity.fmh:invulnerable_wither.name=Invulnerable Wither
+action.hint.exit.fmh:invulnerable_wither=Jump to Exit
+item.fmh:invulnerable_wither_item=Invulnerable Wither Head
+
+item.spawn_egg.entity.fmh:wither.name=Wither Spawn Egg
+entity.fmh:wither.name=Wither
+action.hint.exit.fmh:wither=Jump to Exit
+item.fmh:wither_item=Wither Head
+
+item.spawn_egg.entity.fmh:wolf_angry.name=Angry Wolf Spawn Egg
+entity.fmh:wolf_angry.name=Angry Wolf
+action.hint.exit.fmh:wolf_angry=Jump to Exit
+item.fmh:wolf_angry_item=Angry Wolf Head
+
+item.spawn_egg.entity.fmh:wolf_tame.name=Tame Wolf Spawn Egg
+entity.fmh:wolf_tame.name=Tame Wolf
+action.hint.exit.fmh:wolf_tame=Jump to Exit
+item.fmh:wolf_tame_item=Tame Wolf Head
+
+item.spawn_egg.entity.fmh:wolf_wild.name=Wild Wolf Spawn Egg
+entity.fmh:wolf_wild.name=Wild Wolf
+action.hint.exit.fmh:wolf_wild=Jump to Exit
+item.fmh:wolf_wild_item=Wild Wolf Head
+
+item.spawn_egg.entity.fmh:zoglin.name=Zoglin Spawn Egg
+entity.fmh:zoglin.name=Zoglin
+action.hint.exit.fmh:zoglin=Jump to Exit
+item.fmh:zoglin_item=Zoglin Head
+
+item.spawn_egg.entity.fmh:zombie_pigman.name=Zombie Pigman Spawn Egg
+entity.fmh:zombie_pigman.name=Zombie Pigman
+action.hint.exit.fmh:zombie_pigman=Jump to Exit
+item.fmh:zombie_pigman_item=Zombie Pigman Head
+
+item.spawn_egg.entity.fmh:zombie_villager.name=Zombie Villager Spawn Egg
+entity.fmh:zombie_villager.name=Zombie Villager
+action.hint.exit.fmh:zombie_villager=Jump to Exit
+item.fmh:zombie_villager_item=Zombie Villager Head
+
+item.spawn_egg.entity.fmh:zombified_piglin.name=Zombified Piglin Spawn Egg
+entity.fmh:zombified_piglin.name=Zombified Piglin
+action.hint.exit.fmh:zombified_piglin=Jump to Exit
+item.fmh:zombified_piglin_item=Zombified Piglin Head
+

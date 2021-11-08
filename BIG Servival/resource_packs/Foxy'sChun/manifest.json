@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Chunk Loader Resource Pack",
+		"name": "Foxy's Chunk Loader [Chunk] v1.0.0",
+		"uuid": "100a3ffc-6907-4d0e-af4f-12345eebcd34",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			14,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Chunk Loader Resource Pack",
+			"type": "resources",
+			"uuid": "100ba42e-b9f6-46f1-ac68-1a4612345d34",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "10017b89-cbdf-41f9-ba28-123abca8e07d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

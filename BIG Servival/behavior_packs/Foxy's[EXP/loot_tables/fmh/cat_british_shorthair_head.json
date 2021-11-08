@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+					"type": "item",
+					"name": "fmh:cat_british_shorthair_item",
+					"weight": 1
+				}
+            ]
+        }
+    ]
+}

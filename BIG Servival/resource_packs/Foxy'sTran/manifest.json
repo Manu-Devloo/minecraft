@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Blur when wearing a pumpkin is almost transparent. | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r §l§bTransparent Pumpkin Blur§r v1.0.0 [R]",
+        "uuid": "9f17d65c-8fb9-49f1-ade2-2a0525c64281",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "2a6607ff-6d4b-4424-b11e-b23ea565f9e9",
+            "version": [1, 0, 0]
+        }
+    ]
+}

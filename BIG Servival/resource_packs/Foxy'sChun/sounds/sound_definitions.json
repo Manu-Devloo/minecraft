@@ -1,0 +1,25 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"mob.fcl_chunkloader.ok": {
+			"category": "neutral",
+			"sounds": [
+				{
+					"name": "sounds/chuck_ok",
+					"volume": 1.0,
+					"pitch": 1.0
+				}
+			]
+		},
+		"mob.fcl_chunkloader.ya": {
+			"category": "neutral",
+			"sounds": [
+				{
+					"name": "sounds/chuck_ya",
+					"volume": 1.0,
+					"pitch": 1.0
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "What Biome Is This?(Hold a compass to find out what biome you're in)",
+        "name": "WBIT [BEV]",
+        "uuid": "24e23b26-a46c-4124-9b30-85d4c58c1fdf",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "ada94e3b-9ed0-4bc3-9a80-c8b51b7f9d11",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "00f30dd0-0517-4ab6-aa36-bd06f4a8b99c",
+            "version": [1, 0, 0]
+        }
+    ]
+}

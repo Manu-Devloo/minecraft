@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Removes Potion & Beacon Particles | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r §l§bNo Potion Particles§r v1.0.0 [R]",
+        "uuid": "3648da5b-9422-43e1-af28-8e65a95c87e8",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "bd1ce7d7-c606-4015-9971-e3411683b1bb",
+            "version": [1, 0, 0]
+        }
+    ]
+}

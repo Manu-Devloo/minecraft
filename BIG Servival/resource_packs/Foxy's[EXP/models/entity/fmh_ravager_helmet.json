@@ -1,0 +1,49 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.fmh_ravager_helmet",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 12.5, 0],
+					"cubes": [
+						{"origin": [-4, 12, -4], "size": [8, 10, 8], "inflate": 1, "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "nose",
+					"parent": "head",
+					"pivot": [0, 2, 0],
+					"cubes": [
+						{"origin": [-1, 10, -7], "size": [2, 4, 2], "inflate": 0.5, "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "mouth",
+					"parent": "head",
+					"pivot": [0, 2, 0],
+					"cubes": [
+						{"origin": [-4, 11.3, -4], "size": [8, 1.5, 8], "inflate": 0.99, "uv": [0, 18]}
+					]
+				},
+				{
+					"name": "horns",
+					"parent": "head",
+					"pivot": [0, 19.5, -1],
+					"cubes": [
+						{"origin": [5, 21, -2], "size": [1, 6, 2], "pivot": [4.5, 17.5, -1], "rotation": [45, 0, 0], "uv": [37, 28]},
+						{"origin": [-6, 21, -2], "size": [1, 6, 2], "pivot": [-4.5, 17.5, -1], "rotation": [45, 0, 0], "uv": [37, 28]}
+					]
+				}
+			]
+		}
+	]
+}

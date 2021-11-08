@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+					"type": "item",
+					"name": "fmh:invulnerable_wither_item",
+					"weight": 1
+				}
+            ]
+        }
+    ]
+}

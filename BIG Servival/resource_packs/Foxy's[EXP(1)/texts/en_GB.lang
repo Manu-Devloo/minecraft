@@ -1,0 +1,1015 @@
+item.spawn_egg.entity.fmb:acacia_leaves.name=Acacia Leaves Spawn Egg
+entity.fmb:acacia_leaves.name=Acacia Leaves
+action.hint.exit.fmb:acacia_leaves=Jump to Exit
+item.fmb:acacia_leaves_item=Acacia Leaves Mini Block
+
+item.spawn_egg.entity.fmb:acacia_log.name=Acacia Log Spawn Egg
+entity.fmb:acacia_log.name=Acacia Log
+action.hint.exit.fmb:acacia_log=Jump to Exit
+item.fmb:acacia_log_item=Acacia Log Mini Block
+
+item.spawn_egg.entity.fmb:acacia_planks.name=Acacia Planks Spawn Egg
+entity.fmb:acacia_planks.name=Acacia Planks
+action.hint.exit.fmb:acacia_planks=Jump to Exit
+item.fmb:acacia_planks_item=Acacia Planks Mini Block
+
+item.spawn_egg.entity.fmb:ancient_debris.name=Ancient Debris Spawn Egg
+entity.fmb:ancient_debris.name=Ancient Debris
+action.hint.exit.fmb:ancient_debris=Jump to Exit
+item.fmb:ancient_debris_item=Ancient Debris Mini Block
+
+item.spawn_egg.entity.fmb:andesite.name=Andesite Spawn Egg
+entity.fmb:andesite.name=Andesite
+action.hint.exit.fmb:andesite=Jump to Exit
+item.fmb:andesite_item=Andesite Mini Block
+
+item.spawn_egg.entity.fmb:barrel.name=Barrel Spawn Egg
+entity.fmb:barrel.name=Barrel
+action.hint.exit.fmb:barrel=Jump to Exit
+item.fmb:barrel_item=Barrel Mini Block
+
+item.spawn_egg.entity.fmb:basalt.name=Basalt Spawn Egg
+entity.fmb:basalt.name=Basalt
+action.hint.exit.fmb:basalt=Jump to Exit
+item.fmb:basalt_item=Basalt Mini Block
+
+item.spawn_egg.entity.fmb:beacon.name=Beacon Spawn Egg
+entity.fmb:beacon.name=Beacon
+action.hint.exit.fmb:beacon=Jump to Exit
+item.fmb:beacon_item=Beacon Mini Block
+
+item.spawn_egg.entity.fmb:bee_nest.name=Bee Nest Spawn Egg
+entity.fmb:bee_nest.name=Bee Nest
+action.hint.exit.fmb:bee_nest=Jump to Exit
+item.fmb:bee_nest_item=Bee Nest Mini Block
+
+item.spawn_egg.entity.fmb:beehive.name=Beehive Spawn Egg
+entity.fmb:beehive.name=Beehive
+action.hint.exit.fmb:beehive=Jump to Exit
+item.fmb:beehive_item=Beehive Mini Block
+
+item.spawn_egg.entity.fmb:birch_leaves.name=Birch Leaves Spawn Egg
+entity.fmb:birch_leaves.name=Birch Leaves
+action.hint.exit.fmb:birch_leaves=Jump to Exit
+item.fmb:birch_leaves_item=Birch Leaves Mini Block
+
+item.spawn_egg.entity.fmb:birch_log.name=Birch Log Spawn Egg
+entity.fmb:birch_log.name=Birch Log
+action.hint.exit.fmb:birch_log=Jump to Exit
+item.fmb:birch_log_item=Birch Log Mini Block
+
+item.spawn_egg.entity.fmb:birch_planks.name=Birch Planks Spawn Egg
+entity.fmb:birch_planks.name=Birch Planks
+action.hint.exit.fmb:birch_planks=Jump to Exit
+item.fmb:birch_planks_item=Birch Planks Mini Block
+
+item.spawn_egg.entity.fmb:black_concrete.name=Black Concrete Spawn Egg
+entity.fmb:black_concrete.name=Black Concrete
+action.hint.exit.fmb:black_concrete=Jump to Exit
+item.fmb:black_concrete_item=Black Concrete Mini Block
+
+item.spawn_egg.entity.fmb:black_stained_glass.name=Black Stained Glass Spawn Egg
+entity.fmb:black_stained_glass.name=Black Stained Glass
+action.hint.exit.fmb:black_stained_glass=Jump to Exit
+item.fmb:black_stained_glass_item=Black Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:black_wool.name=Black Wool Spawn Egg
+entity.fmb:black_wool.name=Black Wool
+action.hint.exit.fmb:black_wool=Jump to Exit
+item.fmb:black_wool_item=Black Wool Mini Block
+
+item.spawn_egg.entity.fmb:blackstone.name=Blackstone Spawn Egg
+entity.fmb:blackstone.name=Blackstone
+action.hint.exit.fmb:blackstone=Jump to Exit
+item.fmb:blackstone_item=Blackstone Mini Block
+
+item.spawn_egg.entity.fmb:blast_furnace.name=Blast Furnace Spawn Egg
+entity.fmb:blast_furnace.name=Blast Furnace
+action.hint.exit.fmb:blast_furnace=Jump to Exit
+item.fmb:blast_furnace_item=Blast Furnace Mini Block
+
+item.spawn_egg.entity.fmb:blue_concrete.name=Blue Concrete Spawn Egg
+entity.fmb:blue_concrete.name=Blue Concrete
+action.hint.exit.fmb:blue_concrete=Jump to Exit
+item.fmb:blue_concrete_item=Blue Concrete Mini Block
+
+item.spawn_egg.entity.fmb:blue_stained_glass.name=Blue Stained Glass Spawn Egg
+entity.fmb:blue_stained_glass.name=Blue Stained Glass
+action.hint.exit.fmb:blue_stained_glass=Jump to Exit
+item.fmb:blue_stained_glass_item=Blue Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:blue_wool.name=Blue Wool Spawn Egg
+entity.fmb:blue_wool.name=Blue Wool
+action.hint.exit.fmb:blue_wool=Jump to Exit
+item.fmb:blue_wool_item=Blue Wool Mini Block
+
+item.spawn_egg.entity.fmb:bone_block.name=Bone Block Spawn Egg
+entity.fmb:bone_block.name=Bone Block
+action.hint.exit.fmb:bone_block=Jump to Exit
+item.fmb:bone_block_item=Bone Block Mini Block
+
+item.spawn_egg.entity.fmb:brain_coral.name=Brain Coral Spawn Egg
+entity.fmb:brain_coral.name=Brain Coral
+action.hint.exit.fmb:brain_coral=Jump to Exit
+item.fmb:brain_coral_item=Brain Coral Mini Block
+
+item.spawn_egg.entity.fmb:bricks.name=Bricks Spawn Egg
+entity.fmb:bricks.name=Bricks
+action.hint.exit.fmb:bricks=Jump to Exit
+item.fmb:bricks_item=Bricks Mini Block
+
+item.spawn_egg.entity.fmb:brown_concrete.name=Brown Concrete Spawn Egg
+entity.fmb:brown_concrete.name=Brown Concrete
+action.hint.exit.fmb:brown_concrete=Jump to Exit
+item.fmb:brown_concrete_item=Brown Concrete Mini Block
+
+item.spawn_egg.entity.fmb:brown_stained_glass.name=Brown Stained Glass Spawn Egg
+entity.fmb:brown_stained_glass.name=Brown Stained Glass
+action.hint.exit.fmb:brown_stained_glass=Jump to Exit
+item.fmb:brown_stained_glass_item=Brown Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:brown_wool.name=Brown Wool Spawn Egg
+entity.fmb:brown_wool.name=Brown Wool
+action.hint.exit.fmb:brown_wool=Jump to Exit
+item.fmb:brown_wool_item=Brown Wool Mini Block
+
+item.spawn_egg.entity.fmb:bubble_coral.name=Bubble Coral Spawn Egg
+entity.fmb:bubble_coral.name=Bubble Coral
+action.hint.exit.fmb:bubble_coral=Jump to Exit
+item.fmb:bubble_coral_item=Bubble Coral Mini Block
+
+item.spawn_egg.entity.fmb:cartography_table.name=Cartography Table Spawn Egg
+entity.fmb:cartography_table.name=Cartography Table
+action.hint.exit.fmb:cartography_table=Jump to Exit
+item.fmb:cartography_table_item=Cartography Table Mini Block
+
+item.spawn_egg.entity.fmb:chest.name=Chest Spawn Egg
+entity.fmb:chest.name=Chest
+action.hint.exit.fmb:chest=Jump to Exit
+item.fmb:chest_item=Chest Mini Block
+
+item.spawn_egg.entity.fmb:chiseled_nether_bricks.name=Chiseled Nether Bricks Spawn Egg
+entity.fmb:chiseled_nether_bricks.name=Chiseled Nether Bricks
+action.hint.exit.fmb:chiseled_nether_bricks=Jump to Exit
+item.fmb:chiseled_nether_bricks_item=Chiseled Nether Bricks Mini Block
+
+item.spawn_egg.entity.fmb:chiseled_polished_blackstone.name=Chiseled Polished Blackstone Spawn Egg
+entity.fmb:chiseled_polished_blackstone.name=Chiseled Polished Blackstone
+action.hint.exit.fmb:chiseled_polished_blackstone=Jump to Exit
+item.fmb:chiseled_polished_blackstone_item=Chiseled Polished Blackstone Mini Block
+
+item.spawn_egg.entity.fmb:chiseled_stone_bricks.name=Chiseled Stone Bricks Spawn Egg
+entity.fmb:chiseled_stone_bricks.name=Chiseled Stone Bricks
+action.hint.exit.fmb:chiseled_stone_bricks=Jump to Exit
+item.fmb:chiseled_stone_bricks_item=Chiseled Stone Bricks Mini Block
+
+item.spawn_egg.entity.fmb:clay.name=Clay Spawn Egg
+entity.fmb:clay.name=Clay
+action.hint.exit.fmb:clay=Jump to Exit
+item.fmb:clay_item=Clay Mini Block
+
+item.spawn_egg.entity.fmb:coal_block.name=Coal Block Spawn Egg
+entity.fmb:coal_block.name=Coal Block
+action.hint.exit.fmb:coal_block=Jump to Exit
+item.fmb:coal_block_item=Coal Block Mini Block
+
+item.spawn_egg.entity.fmb:coal_ore.name=Coal Ore Spawn Egg
+entity.fmb:coal_ore.name=Coal Ore
+action.hint.exit.fmb:coal_ore=Jump to Exit
+item.fmb:coal_ore_item=Coal Ore Mini Block
+
+item.spawn_egg.entity.fmb:cobblestone.name=Cobblestone Spawn Egg
+entity.fmb:cobblestone.name=Cobblestone
+action.hint.exit.fmb:cobblestone=Jump to Exit
+item.fmb:cobblestone_item=Cobblestone Mini Block
+
+item.spawn_egg.entity.fmb:crafting_table.name=Crafting Table Spawn Egg
+entity.fmb:crafting_table.name=Crafting Table
+action.hint.exit.fmb:crafting_table=Jump to Exit
+item.fmb:crafting_table_item=Crafting Table Mini Block
+
+item.spawn_egg.entity.fmb:crimson_nylium.name=Crimson Nylium Spawn Egg
+entity.fmb:crimson_nylium.name=Crimson Nylium
+action.hint.exit.fmb:crimson_nylium=Jump to Exit
+item.fmb:crimson_nylium_item=Crimson Nylium Mini Block
+
+item.spawn_egg.entity.fmb:crimson_planks.name=Crimson Planks Spawn Egg
+entity.fmb:crimson_planks.name=Crimson Planks
+action.hint.exit.fmb:crimson_planks=Jump to Exit
+item.fmb:crimson_planks_item=Crimson Planks Mini Block
+
+item.spawn_egg.entity.fmb:crimson_stem.name=Crimson Stem Spawn Egg
+entity.fmb:crimson_stem.name=Crimson Stem
+action.hint.exit.fmb:crimson_stem=Jump to Exit
+item.fmb:crimson_stem_item=Crimson Stem Mini Block
+
+item.spawn_egg.entity.fmb:crying_obsidian.name=Crying Obsidian Spawn Egg
+entity.fmb:crying_obsidian.name=Crying Obsidian
+action.hint.exit.fmb:crying_obsidian=Jump to Exit
+item.fmb:crying_obsidian_item=Crying Obsidian Mini Block
+
+item.spawn_egg.entity.fmb:cyan_concrete.name=Cyan Concrete Spawn Egg
+entity.fmb:cyan_concrete.name=Cyan Concrete
+action.hint.exit.fmb:cyan_concrete=Jump to Exit
+item.fmb:cyan_concrete_item=Cyan Concrete Mini Block
+
+item.spawn_egg.entity.fmb:cyan_stained_glass.name=Cyan Stained Glass Spawn Egg
+entity.fmb:cyan_stained_glass.name=Cyan Stained Glass
+action.hint.exit.fmb:cyan_stained_glass=Jump to Exit
+item.fmb:cyan_stained_glass_item=Cyan Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:cyan_wool.name=Cyan Wool Spawn Egg
+entity.fmb:cyan_wool.name=Cyan Wool
+action.hint.exit.fmb:cyan_wool=Jump to Exit
+item.fmb:cyan_wool_item=Cyan Wool Mini Block
+
+item.spawn_egg.entity.fmb:dark_oak_leaves.name=Dark Oak Leaves Spawn Egg
+entity.fmb:dark_oak_leaves.name=Dark Oak Leaves
+action.hint.exit.fmb:dark_oak_leaves=Jump to Exit
+item.fmb:dark_oak_leaves_item=Dark Oak Leaves Mini Block
+
+item.spawn_egg.entity.fmb:dark_oak_log.name=Dark Oak Log Spawn Egg
+entity.fmb:dark_oak_log.name=Dark Oak Log
+action.hint.exit.fmb:dark_oak_log=Jump to Exit
+item.fmb:dark_oak_log_item=Dark Oak Log Mini Block
+
+item.spawn_egg.entity.fmb:dark_oak_planks.name=Dark Oak Planks Spawn Egg
+entity.fmb:dark_oak_planks.name=Dark Oak Planks
+action.hint.exit.fmb:dark_oak_planks=Jump to Exit
+item.fmb:dark_oak_planks_item=Dark Oak Planks Mini Block
+
+item.spawn_egg.entity.fmb:dark_prismarine.name=Dark Prismarine Spawn Egg
+entity.fmb:dark_prismarine.name=Dark Prismarine
+action.hint.exit.fmb:dark_prismarine=Jump to Exit
+item.fmb:dark_prismarine_item=Dark Prismarine Mini Block
+
+item.spawn_egg.entity.fmb:diamond_block.name=Diamond Block Spawn Egg
+entity.fmb:diamond_block.name=Diamond Block
+action.hint.exit.fmb:diamond_block=Jump to Exit
+item.fmb:diamond_block_item=Diamond Block Mini Block
+
+item.spawn_egg.entity.fmb:diamond_ore.name=Diamond Ore Spawn Egg
+entity.fmb:diamond_ore.name=Diamond Ore
+action.hint.exit.fmb:diamond_ore=Jump to Exit
+item.fmb:diamond_ore_item=Diamond Ore Mini Block
+
+item.spawn_egg.entity.fmb:diorite.name=Diorite Spawn Egg
+entity.fmb:diorite.name=Diorite
+action.hint.exit.fmb:diorite=Jump to Exit
+item.fmb:diorite_item=Diorite Mini Block
+
+item.spawn_egg.entity.fmb:dirt.name=Dirt Spawn Egg
+entity.fmb:dirt.name=Dirt
+action.hint.exit.fmb:dirt=Jump to Exit
+item.fmb:dirt_item=Dirt Mini Block
+
+item.spawn_egg.entity.fmb:dispenser.name=Dispenser Spawn Egg
+entity.fmb:dispenser.name=Dispenser
+action.hint.exit.fmb:dispenser=Jump to Exit
+item.fmb:dispenser_item=Dispenser Mini Block
+
+item.spawn_egg.entity.fmb:dried_kelp_block.name=Dried Kelp Block Spawn Egg
+entity.fmb:dried_kelp_block.name=Dried Kelp Block
+action.hint.exit.fmb:dried_kelp_block=Jump to Exit
+item.fmb:dried_kelp_block_item=Dried Kelp Block Mini Block
+
+item.spawn_egg.entity.fmb:dropper.name=Dropper Spawn Egg
+entity.fmb:dropper.name=Dropper
+action.hint.exit.fmb:dropper=Jump to Exit
+item.fmb:dropper_item=Dropper Mini Block
+
+item.spawn_egg.entity.fmb:emerald_block.name=Emerald Block Spawn Egg
+entity.fmb:emerald_block.name=Emerald Block
+action.hint.exit.fmb:emerald_block=Jump to Exit
+item.fmb:emerald_block_item=Emerald Block Mini Block
+
+item.spawn_egg.entity.fmb:emerald_ore.name=Emerald Ore Spawn Egg
+entity.fmb:emerald_ore.name=Emerald Ore
+action.hint.exit.fmb:emerald_ore=Jump to Exit
+item.fmb:emerald_ore_item=Emerald Ore Mini Block
+
+item.spawn_egg.entity.fmb:enchanting_table.name=Enchanting Table Spawn Egg
+entity.fmb:enchanting_table.name=Enchanting Table
+action.hint.exit.fmb:enchanting_table=Jump to Exit
+item.fmb:enchanting_table_item=Enchanting Table Mini Block
+
+item.spawn_egg.entity.fmb:end_stone.name=End Stone Spawn Egg
+entity.fmb:end_stone.name=End Stone
+action.hint.exit.fmb:end_stone=Jump to Exit
+item.fmb:end_stone_item=End Stone Mini Block
+
+item.spawn_egg.entity.fmb:end_stone_bricks.name=End Stone Bricks Spawn Egg
+entity.fmb:end_stone_bricks.name=End Stone Bricks
+action.hint.exit.fmb:end_stone_bricks=Jump to Exit
+item.fmb:end_stone_bricks_item=End Stone Bricks Mini Block
+
+item.spawn_egg.entity.fmb:ender_chest.name=Ender Chest Spawn Egg
+entity.fmb:ender_chest.name=Ender Chest
+action.hint.exit.fmb:ender_chest=Jump to Exit
+item.fmb:ender_chest_item=Ender Chest Mini Block
+
+item.spawn_egg.entity.fmb:fire_coral.name=Fire Coral Spawn Egg
+entity.fmb:fire_coral.name=Fire Coral
+action.hint.exit.fmb:fire_coral=Jump to Exit
+item.fmb:fire_coral_item=Fire Coral Mini Block
+
+item.spawn_egg.entity.fmb:fletching_table.name=Fletching Table Spawn Egg
+entity.fmb:fletching_table.name=Fletching Table
+action.hint.exit.fmb:fletching_table=Jump to Exit
+item.fmb:fletching_table_item=Fletching Table Mini Block
+
+item.spawn_egg.entity.fmb:furnace.name=Furnace Spawn Egg
+entity.fmb:furnace.name=Furnace
+action.hint.exit.fmb:furnace=Jump to Exit
+item.fmb:furnace_item=Furnace Mini Block
+
+item.spawn_egg.entity.fmb:gilded_blackstone.name=Gilded Blackstone Spawn Egg
+entity.fmb:gilded_blackstone.name=Gilded Blackstone
+action.hint.exit.fmb:gilded_blackstone=Jump to Exit
+item.fmb:gilded_blackstone_item=Gilded Blackstone Mini Block
+
+item.spawn_egg.entity.fmb:glass.name=Glass Spawn Egg
+entity.fmb:glass.name=Glass
+action.hint.exit.fmb:glass=Jump to Exit
+item.fmb:glass_item=Glass Mini Block
+
+item.spawn_egg.entity.fmb:glowstone.name=Glowstone Spawn Egg
+entity.fmb:glowstone.name=Glowstone
+action.hint.exit.fmb:glowstone=Jump to Exit
+item.fmb:glowstone_item=Glowstone Mini Block
+
+item.spawn_egg.entity.fmb:gold_block.name=Gold Block Spawn Egg
+entity.fmb:gold_block.name=Gold Block
+action.hint.exit.fmb:gold_block=Jump to Exit
+item.fmb:gold_block_item=Gold Block Mini Block
+
+item.spawn_egg.entity.fmb:gold_ore.name=Gold Ore Spawn Egg
+entity.fmb:gold_ore.name=Gold Ore
+action.hint.exit.fmb:gold_ore=Jump to Exit
+item.fmb:gold_ore_item=Gold Ore Mini Block
+
+item.spawn_egg.entity.fmb:granite.name=Granite Spawn Egg
+entity.fmb:granite.name=Granite
+action.hint.exit.fmb:granite=Jump to Exit
+item.fmb:granite_item=Granite Mini Block
+
+item.spawn_egg.entity.fmb:grass_block.name=Grass Block Spawn Egg
+entity.fmb:grass_block.name=Grass Block
+action.hint.exit.fmb:grass_block=Jump to Exit
+item.fmb:grass_block_item=Grass Block Mini Block
+
+item.spawn_egg.entity.fmb:gravel.name=Gravel Spawn Egg
+entity.fmb:gravel.name=Gravel
+action.hint.exit.fmb:gravel=Jump to Exit
+item.fmb:gravel_item=Gravel Mini Block
+
+item.spawn_egg.entity.fmb:gray_concrete.name=Gray Concrete Spawn Egg
+entity.fmb:gray_concrete.name=Gray Concrete
+action.hint.exit.fmb:gray_concrete=Jump to Exit
+item.fmb:gray_concrete_item=Gray Concrete Mini Block
+
+item.spawn_egg.entity.fmb:gray_stained_glass.name=Gray Stained Glass Spawn Egg
+entity.fmb:gray_stained_glass.name=Gray Stained Glass
+action.hint.exit.fmb:gray_stained_glass=Jump to Exit
+item.fmb:gray_stained_glass_item=Gray Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:gray_wool.name=Gray Wool Spawn Egg
+entity.fmb:gray_wool.name=Gray Wool
+action.hint.exit.fmb:gray_wool=Jump to Exit
+item.fmb:gray_wool_item=Gray Wool Mini Block
+
+item.spawn_egg.entity.fmb:green_concrete.name=Green Concrete Spawn Egg
+entity.fmb:green_concrete.name=Green Concrete
+action.hint.exit.fmb:green_concrete=Jump to Exit
+item.fmb:green_concrete_item=Green Concrete Mini Block
+
+item.spawn_egg.entity.fmb:green_stained_glass.name=Green Stained Glass Spawn Egg
+entity.fmb:green_stained_glass.name=Green Stained Glass
+action.hint.exit.fmb:green_stained_glass=Jump to Exit
+item.fmb:green_stained_glass_item=Green Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:green_wool.name=Green Wool Spawn Egg
+entity.fmb:green_wool.name=Green Wool
+action.hint.exit.fmb:green_wool=Jump to Exit
+item.fmb:green_wool_item=Green Wool Mini Block
+
+item.spawn_egg.entity.fmb:hay_bale.name=Hay Bale Spawn Egg
+entity.fmb:hay_bale.name=Hay Bale
+action.hint.exit.fmb:hay_bale=Jump to Exit
+item.fmb:hay_bale_item=Hay Bale Mini Block
+
+item.spawn_egg.entity.fmb:honey_block.name=Honey Block Spawn Egg
+entity.fmb:honey_block.name=Honey Block
+action.hint.exit.fmb:honey_block=Jump to Exit
+item.fmb:honey_block_item=Honey Block Mini Block
+
+item.spawn_egg.entity.fmb:honeycomb_block.name=Honeycomb Block Spawn Egg
+entity.fmb:honeycomb_block.name=Honeycomb Block
+action.hint.exit.fmb:honeycomb_block=Jump to Exit
+item.fmb:honeycomb_block_item=Honeycomb Block Mini Block
+
+item.spawn_egg.entity.fmb:horn_coral.name=Horn Coral Spawn Egg
+entity.fmb:horn_coral.name=Horn Coral
+action.hint.exit.fmb:horn_coral=Jump to Exit
+item.fmb:horn_coral_item=Horn Coral Mini Block
+
+item.spawn_egg.entity.fmb:iron_block.name=Iron Block Spawn Egg
+entity.fmb:iron_block.name=Iron Block
+action.hint.exit.fmb:iron_block=Jump to Exit
+item.fmb:iron_block_item=Iron Block Mini Block
+
+item.spawn_egg.entity.fmb:iron_ore.name=Iron Ore Spawn Egg
+entity.fmb:iron_ore.name=Iron Ore
+action.hint.exit.fmb:iron_ore=Jump to Exit
+item.fmb:iron_ore_item=Iron Ore Mini Block
+
+item.spawn_egg.entity.fmb:jukebox.name=Jukebox Spawn Egg
+entity.fmb:jukebox.name=Jukebox
+action.hint.exit.fmb:jukebox=Jump to Exit
+item.fmb:jukebox_item=Jukebox Mini Block
+
+item.spawn_egg.entity.fmb:jungle_leaves.name=Jungle Leaves Spawn Egg
+entity.fmb:jungle_leaves.name=Jungle Leaves
+action.hint.exit.fmb:jungle_leaves=Jump to Exit
+item.fmb:jungle_leaves_item=Jungle Leaves Mini Block
+
+item.spawn_egg.entity.fmb:jungle_log.name=Jungle Log Spawn Egg
+entity.fmb:jungle_log.name=Jungle Log
+action.hint.exit.fmb:jungle_log=Jump to Exit
+item.fmb:jungle_log_item=Jungle Log Mini Block
+
+item.spawn_egg.entity.fmb:jungle_planks.name=Jungle Planks Spawn Egg
+entity.fmb:jungle_planks.name=Jungle Planks
+action.hint.exit.fmb:jungle_planks=Jump to Exit
+item.fmb:jungle_planks_item=Jungle Planks Mini Block
+
+item.spawn_egg.entity.fmb:lapis_lazuli_block.name=Lapis Lazuli Block Spawn Egg
+entity.fmb:lapis_lazuli_block.name=Lapis Lazuli Block
+action.hint.exit.fmb:lapis_lazuli_block=Jump to Exit
+item.fmb:lapis_lazuli_block_item=Lapis Lazuli Block Mini Block
+
+item.spawn_egg.entity.fmb:lapis_lazuli_ore.name=Lapis Lazuli Ore Spawn Egg
+entity.fmb:lapis_lazuli_ore.name=Lapis Lazuli Ore
+action.hint.exit.fmb:lapis_lazuli_ore=Jump to Exit
+item.fmb:lapis_lazuli_ore_item=Lapis Lazuli Ore Mini Block
+
+item.spawn_egg.entity.fmb:light_blue_concrete.name=Light Blue Concrete Spawn Egg
+entity.fmb:light_blue_concrete.name=Light Blue Concrete
+action.hint.exit.fmb:light_blue_concrete=Jump to Exit
+item.fmb:light_blue_concrete_item=Light Blue Concrete Mini Block
+
+item.spawn_egg.entity.fmb:light_blue_stained_glass.name=Light Blue Stained Glass Spawn Egg
+entity.fmb:light_blue_stained_glass.name=Light Blue Stained Glass
+action.hint.exit.fmb:light_blue_stained_glass=Jump to Exit
+item.fmb:light_blue_stained_glass_item=Light Blue Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:light_blue_wool.name=Light Blue Wool Spawn Egg
+entity.fmb:light_blue_wool.name=Light Blue Wool
+action.hint.exit.fmb:light_blue_wool=Jump to Exit
+item.fmb:light_blue_wool_item=Light Blue Wool Mini Block
+
+item.spawn_egg.entity.fmb:light_gray_concrete.name=Light Gray Concrete Spawn Egg
+entity.fmb:light_gray_concrete.name=Light Gray Concrete
+action.hint.exit.fmb:light_gray_concrete=Jump to Exit
+item.fmb:light_gray_concrete_item=Light Gray Concrete Mini Block
+
+item.spawn_egg.entity.fmb:light_gray_stained_glass.name=Light Gray Stained Glass Spawn Egg
+entity.fmb:light_gray_stained_glass.name=Light Gray Stained Glass
+action.hint.exit.fmb:light_gray_stained_glass=Jump to Exit
+item.fmb:light_gray_stained_glass_item=Light Gray Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:light_gray_wool.name=Light Gray Wool Spawn Egg
+entity.fmb:light_gray_wool.name=Light Gray Wool
+action.hint.exit.fmb:light_gray_wool=Jump to Exit
+item.fmb:light_gray_wool_item=Light Gray Wool Mini Block
+
+item.spawn_egg.entity.fmb:lime_concrete.name=Lime Concrete Spawn Egg
+entity.fmb:lime_concrete.name=Lime Concrete
+action.hint.exit.fmb:lime_concrete=Jump to Exit
+item.fmb:lime_concrete_item=Lime Concrete Mini Block
+
+item.spawn_egg.entity.fmb:lime_stained_glass.name=Lime Stained Glass Spawn Egg
+entity.fmb:lime_stained_glass.name=Lime Stained Glass
+action.hint.exit.fmb:lime_stained_glass=Jump to Exit
+item.fmb:lime_stained_glass_item=Lime Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:lime_wool.name=Lime Wool Spawn Egg
+entity.fmb:lime_wool.name=Lime Wool
+action.hint.exit.fmb:lime_wool=Jump to Exit
+item.fmb:lime_wool_item=Lime Wool Mini Block
+
+item.spawn_egg.entity.fmb:lit_redstone_lamp.name=Lit Redstone Lamp Spawn Egg
+entity.fmb:lit_redstone_lamp.name=Lit Redstone Lamp
+action.hint.exit.fmb:lit_redstone_lamp=Jump to Exit
+item.fmb:lit_redstone_lamp_item=Lit Redstone Lamp Mini Block
+
+item.spawn_egg.entity.fmb:lodestone.name=Lodestone Spawn Egg
+entity.fmb:lodestone.name=Lodestone
+action.hint.exit.fmb:lodestone=Jump to Exit
+item.fmb:lodestone_item=Lodestone Mini Block
+
+item.spawn_egg.entity.fmb:loom.name=Loom Spawn Egg
+entity.fmb:loom.name=Loom
+action.hint.exit.fmb:loom=Jump to Exit
+item.fmb:loom_item=Loom Mini Block
+
+item.spawn_egg.entity.fmb:magenta_concrete.name=Magenta Concrete Spawn Egg
+entity.fmb:magenta_concrete.name=Magenta Concrete
+action.hint.exit.fmb:magenta_concrete=Jump to Exit
+item.fmb:magenta_concrete_item=Magenta Concrete Mini Block
+
+item.spawn_egg.entity.fmb:magenta_stained_glass.name=Magenta Stained Glass Spawn Egg
+entity.fmb:magenta_stained_glass.name=Magenta Stained Glass
+action.hint.exit.fmb:magenta_stained_glass=Jump to Exit
+item.fmb:magenta_stained_glass_item=Magenta Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:magenta_wool.name=Magenta Wool Spawn Egg
+entity.fmb:magenta_wool.name=Magenta Wool
+action.hint.exit.fmb:magenta_wool=Jump to Exit
+item.fmb:magenta_wool_item=Magenta Wool Mini Block
+
+item.spawn_egg.entity.fmb:magma.name=Magma Spawn Egg
+entity.fmb:magma.name=Magma
+action.hint.exit.fmb:magma=Jump to Exit
+item.fmb:magma_item=Magma Mini Block
+
+item.spawn_egg.entity.fmb:melon.name=Melon Spawn Egg
+entity.fmb:melon.name=Melon
+action.hint.exit.fmb:melon=Jump to Exit
+item.fmb:melon_item=Melon Mini Block
+
+item.spawn_egg.entity.fmb:mossy_cobblestone.name=Mossy Cobblestone Spawn Egg
+entity.fmb:mossy_cobblestone.name=Mossy Cobblestone
+action.hint.exit.fmb:mossy_cobblestone=Jump to Exit
+item.fmb:mossy_cobblestone_item=Mossy Cobblestone Mini Block
+
+item.spawn_egg.entity.fmb:mycelium.name=Mycelium Spawn Egg
+entity.fmb:mycelium.name=Mycelium
+action.hint.exit.fmb:mycelium=Jump to Exit
+item.fmb:mycelium_item=Mycelium Mini Block
+
+item.spawn_egg.entity.fmb:nether_bricks.name=Nether Bricks Spawn Egg
+entity.fmb:nether_bricks.name=Nether Bricks
+action.hint.exit.fmb:nether_bricks=Jump to Exit
+item.fmb:nether_bricks_item=Nether Bricks Mini Block
+
+item.spawn_egg.entity.fmb:nether_gold_ore.name=Nether Gold Ore Spawn Egg
+entity.fmb:nether_gold_ore.name=Nether Gold Ore
+action.hint.exit.fmb:nether_gold_ore=Jump to Exit
+item.fmb:nether_gold_ore_item=Nether Gold Ore Mini Block
+
+item.spawn_egg.entity.fmb:nether_quartz_ore.name=Nether Quartz Ore Spawn Egg
+entity.fmb:nether_quartz_ore.name=Nether Quartz Ore
+action.hint.exit.fmb:nether_quartz_ore=Jump to Exit
+item.fmb:nether_quartz_ore_item=Nether Quartz Ore Mini Block
+
+item.spawn_egg.entity.fmb:nether_wart_block.name=Nether Wart Block Spawn Egg
+entity.fmb:nether_wart_block.name=Nether Wart Block
+action.hint.exit.fmb:nether_wart_block=Jump to Exit
+item.fmb:nether_wart_block_item=Nether Wart Block Mini Block
+
+item.spawn_egg.entity.fmb:netherite_block.name=Netherite Block Spawn Egg
+entity.fmb:netherite_block.name=Netherite Block
+action.hint.exit.fmb:netherite_block=Jump to Exit
+item.fmb:netherite_block_item=Netherite Block Mini Block
+
+item.spawn_egg.entity.fmb:netherrack.name=Netherrack Spawn Egg
+entity.fmb:netherrack.name=Netherrack
+action.hint.exit.fmb:netherrack=Jump to Exit
+item.fmb:netherrack_item=Netherrack Mini Block
+
+item.spawn_egg.entity.fmb:oak_leaves.name=Oak Leaves Spawn Egg
+entity.fmb:oak_leaves.name=Oak Leaves
+action.hint.exit.fmb:oak_leaves=Jump to Exit
+item.fmb:oak_leaves_item=Oak Leaves Mini Block
+
+item.spawn_egg.entity.fmb:oak_log.name=Oak Log Spawn Egg
+entity.fmb:oak_log.name=Oak Log
+action.hint.exit.fmb:oak_log=Jump to Exit
+item.fmb:oak_log_item=Oak Log Mini Block
+
+item.spawn_egg.entity.fmb:oak_planks.name=Oak Planks Spawn Egg
+entity.fmb:oak_planks.name=Oak Planks
+action.hint.exit.fmb:oak_planks=Jump to Exit
+item.fmb:oak_planks_item=Oak Planks Mini Block
+
+item.spawn_egg.entity.fmb:observer.name=Observer Spawn Egg
+entity.fmb:observer.name=Observer
+action.hint.exit.fmb:observer=Jump to Exit
+item.fmb:observer_item=Observer Mini Block
+
+item.spawn_egg.entity.fmb:obsidian.name=Obsidian Spawn Egg
+entity.fmb:obsidian.name=Obsidian
+action.hint.exit.fmb:obsidian=Jump to Exit
+item.fmb:obsidian_item=Obsidian Mini Block
+
+item.spawn_egg.entity.fmb:orange_concrete.name=Orange Concrete Spawn Egg
+entity.fmb:orange_concrete.name=Orange Concrete
+action.hint.exit.fmb:orange_concrete=Jump to Exit
+item.fmb:orange_concrete_item=Orange Concrete Mini Block
+
+item.spawn_egg.entity.fmb:orange_stained_glass.name=Orange Stained Glass Spawn Egg
+entity.fmb:orange_stained_glass.name=Orange Stained Glass
+action.hint.exit.fmb:orange_stained_glass=Jump to Exit
+item.fmb:orange_stained_glass_item=Orange Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:orange_wool.name=Orange Wool Spawn Egg
+entity.fmb:orange_wool.name=Orange Wool
+action.hint.exit.fmb:orange_wool=Jump to Exit
+item.fmb:orange_wool_item=Orange Wool Mini Block
+
+item.spawn_egg.entity.fmb:packed_ice.name=Packed Ice Spawn Egg
+entity.fmb:packed_ice.name=Packed Ice
+action.hint.exit.fmb:packed_ice=Jump to Exit
+item.fmb:packed_ice_item=Packed Ice Mini Block
+
+item.spawn_egg.entity.fmb:pink_concrete.name=Pink Concrete Spawn Egg
+entity.fmb:pink_concrete.name=Pink Concrete
+action.hint.exit.fmb:pink_concrete=Jump to Exit
+item.fmb:pink_concrete_item=Pink Concrete Mini Block
+
+item.spawn_egg.entity.fmb:pink_stained_glass.name=Pink Stained Glass Spawn Egg
+entity.fmb:pink_stained_glass.name=Pink Stained Glass
+action.hint.exit.fmb:pink_stained_glass=Jump to Exit
+item.fmb:pink_stained_glass_item=Pink Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:pink_wool.name=Pink Wool Spawn Egg
+entity.fmb:pink_wool.name=Pink Wool
+action.hint.exit.fmb:pink_wool=Jump to Exit
+item.fmb:pink_wool_item=Pink Wool Mini Block
+
+item.spawn_egg.entity.fmb:piston.name=Piston Spawn Egg
+entity.fmb:piston.name=Piston
+action.hint.exit.fmb:piston=Jump to Exit
+item.fmb:piston_item=Piston Mini Block
+
+item.spawn_egg.entity.fmb:podzol.name=Podzol Spawn Egg
+entity.fmb:podzol.name=Podzol
+action.hint.exit.fmb:podzol=Jump to Exit
+item.fmb:podzol_item=Podzol Mini Block
+
+item.spawn_egg.entity.fmb:polished_andesite.name=Polished Andesite Spawn Egg
+entity.fmb:polished_andesite.name=Polished Andesite
+action.hint.exit.fmb:polished_andesite=Jump to Exit
+item.fmb:polished_andesite_item=Polished Andesite Mini Block
+
+item.spawn_egg.entity.fmb:polished_basalt.name=Polished Basalt Spawn Egg
+entity.fmb:polished_basalt.name=Polished Basalt
+action.hint.exit.fmb:polished_basalt=Jump to Exit
+item.fmb:polished_basalt_item=Polished Basalt Mini Block
+
+item.spawn_egg.entity.fmb:polished_blackstone.name=Polished Blackstone Spawn Egg
+entity.fmb:polished_blackstone.name=Polished Blackstone
+action.hint.exit.fmb:polished_blackstone=Jump to Exit
+item.fmb:polished_blackstone_item=Polished Blackstone Mini Block
+
+item.spawn_egg.entity.fmb:polished_blackstone_bricks.name=Polished Blackstone Bricks Spawn Egg
+entity.fmb:polished_blackstone_bricks.name=Polished Blackstone Bricks
+action.hint.exit.fmb:polished_blackstone_bricks=Jump to Exit
+item.fmb:polished_blackstone_bricks_item=Polished Blackstone Bricks Mini Block
+
+item.spawn_egg.entity.fmb:polished_diorite.name=Polished Diorite Spawn Egg
+entity.fmb:polished_diorite.name=Polished Diorite
+action.hint.exit.fmb:polished_diorite=Jump to Exit
+item.fmb:polished_diorite_item=Polished Diorite Mini Block
+
+item.spawn_egg.entity.fmb:polished_granite.name=Polished Granite Spawn Egg
+entity.fmb:polished_granite.name=Polished Granite
+action.hint.exit.fmb:polished_granite=Jump to Exit
+item.fmb:polished_granite_item=Polished Granite Mini Block
+
+item.spawn_egg.entity.fmb:prismarine.name=Prismarine Spawn Egg
+entity.fmb:prismarine.name=Prismarine
+action.hint.exit.fmb:prismarine=Jump to Exit
+item.fmb:prismarine_item=Prismarine Mini Block
+
+item.spawn_egg.entity.fmb:prismarine_brick.name=Prismarine Brick Spawn Egg
+entity.fmb:prismarine_brick.name=Prismarine Brick
+action.hint.exit.fmb:prismarine_brick=Jump to Exit
+item.fmb:prismarine_brick_item=Prismarine Brick Mini Block
+
+item.spawn_egg.entity.fmb:pumpkin.name=Pumpkin Spawn Egg
+entity.fmb:pumpkin.name=Pumpkin
+action.hint.exit.fmb:pumpkin=Jump to Exit
+item.fmb:pumpkin_item=Pumpkin Mini Block
+
+item.spawn_egg.entity.fmb:purple_concrete.name=Purple Concrete Spawn Egg
+entity.fmb:purple_concrete.name=Purple Concrete
+action.hint.exit.fmb:purple_concrete=Jump to Exit
+item.fmb:purple_concrete_item=Purple Concrete Mini Block
+
+item.spawn_egg.entity.fmb:purple_stained_glass.name=Purple Stained Glass Spawn Egg
+entity.fmb:purple_stained_glass.name=Purple Stained Glass
+action.hint.exit.fmb:purple_stained_glass=Jump to Exit
+item.fmb:purple_stained_glass_item=Purple Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:purple_wool.name=Purple Wool Spawn Egg
+entity.fmb:purple_wool.name=Purple Wool
+action.hint.exit.fmb:purple_wool=Jump to Exit
+item.fmb:purple_wool_item=Purple Wool Mini Block
+
+item.spawn_egg.entity.fmb:purpur_block.name=Purpur Block Spawn Egg
+entity.fmb:purpur_block.name=Purpur Block
+action.hint.exit.fmb:purpur_block=Jump to Exit
+item.fmb:purpur_block_item=Purpur Block Mini Block
+
+item.spawn_egg.entity.fmb:quartz_block.name=Quartz Block Spawn Egg
+entity.fmb:quartz_block.name=Quartz Block
+action.hint.exit.fmb:quartz_block=Jump to Exit
+item.fmb:quartz_block_item=Quartz Block Mini Block
+
+item.spawn_egg.entity.fmb:red_concrete.name=Red Concrete Spawn Egg
+entity.fmb:red_concrete.name=Red Concrete
+action.hint.exit.fmb:red_concrete=Jump to Exit
+item.fmb:red_concrete_item=Red Concrete Mini Block
+
+item.spawn_egg.entity.fmb:red_mushroom_block.name=Red Mushroom Block Spawn Egg
+entity.fmb:red_mushroom_block.name=Red Mushroom Block
+action.hint.exit.fmb:red_mushroom_block=Jump to Exit
+item.fmb:red_mushroom_block_item=Red Mushroom Block Mini Block
+
+item.spawn_egg.entity.fmb:red_nether_bricks.name=Red Nether Bricks Spawn Egg
+entity.fmb:red_nether_bricks.name=Red Nether Bricks
+action.hint.exit.fmb:red_nether_bricks=Jump to Exit
+item.fmb:red_nether_bricks_item=Red Nether Bricks Mini Block
+
+item.spawn_egg.entity.fmb:red_sand.name=Red Sand Spawn Egg
+entity.fmb:red_sand.name=Red Sand
+action.hint.exit.fmb:red_sand=Jump to Exit
+item.fmb:red_sand_item=Red Sand Mini Block
+
+item.spawn_egg.entity.fmb:red_sandstone.name=Red Sandstone Spawn Egg
+entity.fmb:red_sandstone.name=Red Sandstone
+action.hint.exit.fmb:red_sandstone=Jump to Exit
+item.fmb:red_sandstone_item=Red Sandstone Mini Block
+
+item.spawn_egg.entity.fmb:red_stained_glass.name=Red Stained Glass Spawn Egg
+entity.fmb:red_stained_glass.name=Red Stained Glass
+action.hint.exit.fmb:red_stained_glass=Jump to Exit
+item.fmb:red_stained_glass_item=Red Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:red_wool.name=Red Wool Spawn Egg
+entity.fmb:red_wool.name=Red Wool
+action.hint.exit.fmb:red_wool=Jump to Exit
+item.fmb:red_wool_item=Red Wool Mini Block
+
+item.spawn_egg.entity.fmb:redstone_block.name=Redstone Block Spawn Egg
+entity.fmb:redstone_block.name=Redstone Block
+action.hint.exit.fmb:redstone_block=Jump to Exit
+item.fmb:redstone_block_item=Redstone Block Mini Block
+
+item.spawn_egg.entity.fmb:redstone_ore.name=Redstone Ore Spawn Egg
+entity.fmb:redstone_ore.name=Redstone Ore
+action.hint.exit.fmb:redstone_ore=Jump to Exit
+item.fmb:redstone_ore_item=Redstone Ore Mini Block
+
+item.spawn_egg.entity.fmb:respawn_anchor.name=Respawn Anchor Spawn Egg
+entity.fmb:respawn_anchor.name=Respawn Anchor
+action.hint.exit.fmb:respawn_anchor=Jump to Exit
+item.fmb:respawn_anchor_item=Respawn Anchor Mini Block
+
+item.spawn_egg.entity.fmb:sand.name=Sand Spawn Egg
+entity.fmb:sand.name=Sand
+action.hint.exit.fmb:sand=Jump to Exit
+item.fmb:sand_item=Sand Mini Block
+
+item.spawn_egg.entity.fmb:sandstone.name=Sandstone Spawn Egg
+entity.fmb:sandstone.name=Sandstone
+action.hint.exit.fmb:sandstone=Jump to Exit
+item.fmb:sandstone_item=Sandstone Mini Block
+
+item.spawn_egg.entity.fmb:scaffolding.name=Scaffolding Spawn Egg
+entity.fmb:scaffolding.name=Scaffolding
+action.hint.exit.fmb:scaffolding=Jump to Exit
+item.fmb:scaffolding_item=Scaffolding Mini Block
+
+item.spawn_egg.entity.fmb:sea_lantern.name=Sea Lantern Spawn Egg
+entity.fmb:sea_lantern.name=Sea Lantern
+action.hint.exit.fmb:sea_lantern=Jump to Exit
+item.fmb:sea_lantern_item=Sea Lantern Mini Block
+
+item.spawn_egg.entity.fmb:shroomlight.name=Shroomlight Spawn Egg
+entity.fmb:shroomlight.name=Shroomlight
+action.hint.exit.fmb:shroomlight=Jump to Exit
+item.fmb:shroomlight_item=Shroomlight Mini Block
+
+item.spawn_egg.entity.fmb:shulker_box.name=Shulker Box Spawn Egg
+entity.fmb:shulker_box.name=Shulker Box
+action.hint.exit.fmb:shulker_box=Jump to Exit
+item.fmb:shulker_box_item=Shulker Box Mini Block
+
+item.spawn_egg.entity.fmb:slime_block.name=Slime Block Spawn Egg
+entity.fmb:slime_block.name=Slime Block
+action.hint.exit.fmb:slime_block=Jump to Exit
+item.fmb:slime_block_item=Slime Block Mini Block
+
+item.spawn_egg.entity.fmb:smithing_table.name=Smithing Table Spawn Egg
+entity.fmb:smithing_table.name=Smithing Table
+action.hint.exit.fmb:smithing_table=Jump to Exit
+item.fmb:smithing_table_item=Smithing Table Mini Block
+
+item.spawn_egg.entity.fmb:smoker.name=Smoker Spawn Egg
+entity.fmb:smoker.name=Smoker
+action.hint.exit.fmb:smoker=Jump to Exit
+item.fmb:smoker_item=Smoker Mini Block
+
+item.spawn_egg.entity.fmb:smooth_stone.name=Smooth Stone Spawn Egg
+entity.fmb:smooth_stone.name=Smooth Stone
+action.hint.exit.fmb:smooth_stone=Jump to Exit
+item.fmb:smooth_stone_item=Smooth Stone Mini Block
+
+item.spawn_egg.entity.fmb:snow_block.name=Snow Block Spawn Egg
+entity.fmb:snow_block.name=Snow Block
+action.hint.exit.fmb:snow_block=Jump to Exit
+item.fmb:snow_block_item=Snow Block Mini Block
+
+item.spawn_egg.entity.fmb:soul_sand.name=Soul Sand Spawn Egg
+entity.fmb:soul_sand.name=Soul Sand
+action.hint.exit.fmb:soul_sand=Jump to Exit
+item.fmb:soul_sand_item=Soul Sand Mini Block
+
+item.spawn_egg.entity.fmb:soul_soil.name=Soul Soil Spawn Egg
+entity.fmb:soul_soil.name=Soul Soil
+action.hint.exit.fmb:soul_soil=Jump to Exit
+item.fmb:soul_soil_item=Soul Soil Mini Block
+
+item.spawn_egg.entity.fmb:sponge.name=Sponge Spawn Egg
+entity.fmb:sponge.name=Sponge
+action.hint.exit.fmb:sponge=Jump to Exit
+item.fmb:sponge_item=Sponge Mini Block
+
+item.spawn_egg.entity.fmb:spruce_leaves.name=Spruce Leaves Spawn Egg
+entity.fmb:spruce_leaves.name=Spruce Leaves
+action.hint.exit.fmb:spruce_leaves=Jump to Exit
+item.fmb:spruce_leaves_item=Spruce Leaves Mini Block
+
+item.spawn_egg.entity.fmb:spruce_log.name=Spruce Log Spawn Egg
+entity.fmb:spruce_log.name=Spruce Log
+action.hint.exit.fmb:spruce_log=Jump to Exit
+item.fmb:spruce_log_item=Spruce Log Mini Block
+
+item.spawn_egg.entity.fmb:spruce_planks.name=Spruce Planks Spawn Egg
+entity.fmb:spruce_planks.name=Spruce Planks
+action.hint.exit.fmb:spruce_planks=Jump to Exit
+item.fmb:spruce_planks_item=Spruce Planks Mini Block
+
+item.spawn_egg.entity.fmb:sticky_piston.name=Sticky Piston Spawn Egg
+entity.fmb:sticky_piston.name=Sticky Piston
+action.hint.exit.fmb:sticky_piston=Jump to Exit
+item.fmb:sticky_piston_item=Sticky Piston Mini Block
+
+item.spawn_egg.entity.fmb:stone.name=Stone Spawn Egg
+entity.fmb:stone.name=Stone
+action.hint.exit.fmb:stone=Jump to Exit
+item.fmb:stone_item=Stone Mini Block
+
+item.spawn_egg.entity.fmb:stone_bricks.name=Stone Bricks Spawn Egg
+entity.fmb:stone_bricks.name=Stone Bricks
+action.hint.exit.fmb:stone_bricks=Jump to Exit
+item.fmb:stone_bricks_item=Stone Bricks Mini Block
+
+item.spawn_egg.entity.fmb:target.name=Target Spawn Egg
+entity.fmb:target.name=Target
+action.hint.exit.fmb:target=Jump to Exit
+item.fmb:target_item=Target Mini Block
+
+item.spawn_egg.entity.fmb:terracotta.name=Terracotta Spawn Egg
+entity.fmb:terracotta.name=Terracotta
+action.hint.exit.fmb:terracotta=Jump to Exit
+item.fmb:terracotta_item=Terracotta Mini Block
+
+item.spawn_egg.entity.fmb:tnt.name=Tnt Spawn Egg
+entity.fmb:tnt.name=Tnt
+action.hint.exit.fmb:tnt=Jump to Exit
+item.fmb:tnt_item=Tnt Mini Block
+
+item.spawn_egg.entity.fmb:tube_coral.name=Tube Coral Spawn Egg
+entity.fmb:tube_coral.name=Tube Coral
+action.hint.exit.fmb:tube_coral=Jump to Exit
+item.fmb:tube_coral_item=Tube Coral Mini Block
+
+item.spawn_egg.entity.fmb:unlit_redstone_lamp.name=Unlit Redstone Lamp Spawn Egg
+entity.fmb:unlit_redstone_lamp.name=Unlit Redstone Lamp
+action.hint.exit.fmb:unlit_redstone_lamp=Jump to Exit
+item.fmb:unlit_redstone_lamp_item=Unlit Redstone Lamp Mini Block
+
+item.spawn_egg.entity.fmb:warped_nylium.name=Warped Nylium Spawn Egg
+entity.fmb:warped_nylium.name=Warped Nylium
+action.hint.exit.fmb:warped_nylium=Jump to Exit
+item.fmb:warped_nylium_item=Warped Nylium Mini Block
+
+item.spawn_egg.entity.fmb:warped_planks.name=Warped Planks Spawn Egg
+entity.fmb:warped_planks.name=Warped Planks
+action.hint.exit.fmb:warped_planks=Jump to Exit
+item.fmb:warped_planks_item=Warped Planks Mini Block
+
+item.spawn_egg.entity.fmb:warped_stem.name=Warped Stem Spawn Egg
+entity.fmb:warped_stem.name=Warped Stem
+action.hint.exit.fmb:warped_stem=Jump to Exit
+item.fmb:warped_stem_item=Warped Stem Mini Block
+
+item.spawn_egg.entity.fmb:warped_wart_block.name=Warped Wart Block Spawn Egg
+entity.fmb:warped_wart_block.name=Warped Wart Block
+action.hint.exit.fmb:warped_wart_block=Jump to Exit
+item.fmb:warped_wart_block_item=Warped Wart Block Mini Block
+
+item.spawn_egg.entity.fmb:white_concrete.name=White Concrete Spawn Egg
+entity.fmb:white_concrete.name=White Concrete
+action.hint.exit.fmb:white_concrete=Jump to Exit
+item.fmb:white_concrete_item=White Concrete Mini Block
+
+item.spawn_egg.entity.fmb:white_stained_glass.name=White Stained Glass Spawn Egg
+entity.fmb:white_stained_glass.name=White Stained Glass
+action.hint.exit.fmb:white_stained_glass=Jump to Exit
+item.fmb:white_stained_glass_item=White Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:wool.name=Wool Spawn Egg
+entity.fmb:wool.name=Wool
+action.hint.exit.fmb:wool=Jump to Exit
+item.fmb:wool_item=Wool Mini Block
+
+item.spawn_egg.entity.fmb:yellow_concrete.name=Yellow Concrete Spawn Egg
+entity.fmb:yellow_concrete.name=Yellow Concrete
+action.hint.exit.fmb:yellow_concrete=Jump to Exit
+item.fmb:yellow_concrete_item=Yellow Concrete Mini Block
+
+item.spawn_egg.entity.fmb:yellow_stained_glass.name=Yellow Stained Glass Spawn Egg
+entity.fmb:yellow_stained_glass.name=Yellow Stained Glass
+action.hint.exit.fmb:yellow_stained_glass=Jump to Exit
+item.fmb:yellow_stained_glass_item=Yellow Stained Glass Mini Block
+
+item.spawn_egg.entity.fmb:yellow_wool.name=Yellow Wool Spawn Egg
+entity.fmb:yellow_wool.name=Yellow Wool
+action.hint.exit.fmb:yellow_wool=Jump to Exit
+item.fmb:yellow_wool_item=Yellow Wool Mini Block
+
+item.spawn_egg.entity.fmb:deepslate.name=Deepslate Spawn Egg
+entity.fmb:deepslate.name=Deepslate
+action.hint.exit.fmb:deepslate=Jump to Exit
+item.fmb:deepslate_item=Deepslate Mini Block
+
+item.spawn_egg.entity.fmb:deepslate_tiles.name=Deepslate Tiles Spawn Egg
+entity.fmb:deepslate_tiles.name=Deepslate Tiles
+action.hint.exit.fmb:deepslate_tiles=Jump to Exit
+item.fmb:deepslate_tiles_item=Deepslate Tiles Mini Block
+
+item.spawn_egg.entity.fmb:amethyst_block.name=Amethyst Block Spawn Egg
+entity.fmb:amethyst_block.name=Amethyst Block
+action.hint.exit.fmb:amethyst_block=Jump to Exit
+item.fmb:amethyst_block_item=Amethyst Block Mini Block
+
+item.spawn_egg.entity.fmb:azalea_leaves_flowered.name=Azalea Leaves Flowered Spawn Egg
+entity.fmb:azalea_leaves_flowered.name=Azalea Leaves Flowered
+action.hint.exit.fmb:azalea_leaves_flowered=Jump to Exit
+item.fmb:azalea_leaves_flowered_item=Azalea Leaves Flowered Mini Block
+
+item.spawn_egg.entity.fmb:calcite.name=Calcite Spawn Egg
+entity.fmb:calcite.name=Calcite
+action.hint.exit.fmb:calcite=Jump to Exit
+item.fmb:calcite_item=Calcite Mini Block
+
+item.spawn_egg.entity.fmb:copper_block.name=Copper Block Spawn Egg
+entity.fmb:copper_block.name=Copper Block
+action.hint.exit.fmb:copper_block=Jump to Exit
+item.fmb:copper_block_item=Copper Block Mini Block
+
+item.spawn_egg.entity.fmb:copper_ore.name=Copper Ore Spawn Egg
+entity.fmb:copper_ore.name=Copper Ore
+action.hint.exit.fmb:copper_ore=Jump to Exit
+item.fmb:copper_ore_item=Copper Ore Mini Block
+
+item.spawn_egg.entity.fmb:dripstone_block.name=Dripstone Block Spawn Egg
+entity.fmb:dripstone_block.name=Dripstone Block
+action.hint.exit.fmb:dripstone_block=Jump to Exit
+item.fmb:dripstone_block_item=Dripstone Block Mini Block
+
+item.spawn_egg.entity.fmb:moss_block.name=Moss Block Spawn Egg
+entity.fmb:moss_block.name=Moss Block
+action.hint.exit.fmb:moss_block=Jump to Exit
+item.fmb:moss_block_item=Moss Block Mini Block
+
+item.spawn_egg.entity.fmb:oxidized_copper.name=Oxidized Copper Spawn Egg
+entity.fmb:oxidized_copper.name=Oxidized Copper
+action.hint.exit.fmb:oxidized_copper=Jump to Exit
+item.fmb:oxidized_copper_item=Oxidized Copper Mini Block
+
+item.spawn_egg.entity.fmb:raw_copper_block.name=Raw Copper Block Spawn Egg
+entity.fmb:raw_copper_block.name=Raw Copper Block
+action.hint.exit.fmb:raw_copper_block=Jump to Exit
+item.fmb:raw_copper_block_item=Raw Copper Block Mini Block
+
+item.spawn_egg.entity.fmb:raw_gold_block.name=Raw Gold Block Spawn Egg
+entity.fmb:raw_gold_block.name=Raw Gold Block
+action.hint.exit.fmb:raw_gold_block=Jump to Exit
+item.fmb:raw_gold_block_item=Raw Gold Block Mini Block
+
+item.spawn_egg.entity.fmb:raw_iron_block.name=Raw Iron Block Spawn Egg
+entity.fmb:raw_iron_block.name=Raw Iron Block
+action.hint.exit.fmb:raw_iron_block=Jump to Exit
+item.fmb:raw_iron_block_item=Raw Iron Block Mini Block
+
+item.spawn_egg.entity.fmb:tuff.name=Tuff Spawn Egg
+entity.fmb:tuff.name=Tuff
+action.hint.exit.fmb:tuff=Jump to Exit
+item.fmb:tuff_item=Tuff Mini Block
+

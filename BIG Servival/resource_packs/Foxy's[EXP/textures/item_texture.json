@@ -1,0 +1,708 @@
+{
+	"resource_pack_name": "fmh",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"fmh_axolotl_blue": {
+			"textures": "textures/items/axolotl_blue"
+		},
+		"fmh_axolotl_cyan": {
+			"textures": "textures/items/axolotl_cyan"
+		},
+		"fmh_axolotl_gold": {
+			"textures": "textures/items/axolotl_gold"
+		},
+		"fmh_axolotl_lucy": {
+			"textures": "textures/items/axolotl_lucy"
+		},
+		"fmh_axolotl_wild": {
+			"textures": "textures/items/axolotl_wild"
+		},
+		"fmh_bat": {
+			"textures": "textures/items/bat"
+		},
+		"fmh_bee_angry": {
+			"textures": "textures/items/bee_angry"
+		},
+		"fmh_bee": {
+			"textures": "textures/items/bee"
+		},
+		"fmh_blaze": {
+			"textures": "textures/items/blaze"
+		},
+		"fmh_cat_black": {
+			"textures": "textures/items/cat_black"
+		},
+		"fmh_cat_british_shorthair": {
+			"textures": "textures/items/cat_british_shorthair"
+		},
+		"fmh_cat_calico": {
+			"textures": "textures/items/cat_calico"
+		},
+		"fmh_cat_jellie": {
+			"textures": "textures/items/cat_jellie"
+		},
+		"fmh_cat_persian": {
+			"textures": "textures/items/cat_persian"
+		},
+		"fmh_cat_ragdoll": {
+			"textures": "textures/items/cat_ragdoll"
+		},
+		"fmh_cat_red": {
+			"textures": "textures/items/cat_red"
+		},
+		"fmh_cat_siamese": {
+			"textures": "textures/items/cat_siamese"
+		},
+		"fmh_cat_tabby": {
+			"textures": "textures/items/cat_tabby"
+		},
+		"fmh_cat_tuxedo": {
+			"textures": "textures/items/cat_tuxedo"
+		},
+		"fmh_cat_white": {
+			"textures": "textures/items/cat_white"
+		},
+		"fmh_cave_spider": {
+			"textures": "textures/items/cave_spider"
+		},
+		"fmh_chicken": {
+			"textures": "textures/items/chicken"
+		},
+		"fmh_cod": {
+			"textures": "textures/items/cod"
+		},
+		"fmh_cow": {
+			"textures": "textures/items/cow"
+		},
+		"fmh_dolphin": {
+			"textures": "textures/items/dolphin"
+		},
+		"fmh_donkey": {
+			"textures": "textures/items/donkey"
+		},
+		"fmh_drowned": {
+			"textures": "textures/items/drowned"
+		},
+		"fmh_elder_guardian": {
+			"textures": "textures/items/elder_guardian"
+		},
+		"fmh_enderman": {
+			"textures": "textures/items/enderman"
+		},
+		"fmh_endermite": {
+			"textures": "textures/items/endermite"
+		},
+		"fmh_evoker": {
+			"textures": "textures/items/evoker"
+		},
+		"fmh_fox_red": {
+			"textures": "textures/items/fox_red"
+		},
+		"fmh_fox_white": {
+			"textures": "textures/items/fox_white"
+		},
+		"fmh_ghast": {
+			"textures": "textures/items/ghast"
+		},
+		"fmh_glow_squid": {
+			"textures": "textures/items/glow_squid"
+		},
+		"fmh_goat_screamer": {
+			"textures": "textures/items/goat_screamer"
+		},
+		"fmh_goat": {
+			"textures": "textures/items/goat"
+		},
+		"fmh_guardian": {
+			"textures": "textures/items/guardian"
+		},
+		"fmh_hoglin": {
+			"textures": "textures/items/hoglin"
+		},
+		"fmh_horse_black": {
+			"textures": "textures/items/horse_black"
+		},
+		"fmh_horse_brown": {
+			"textures": "textures/items/horse_brown"
+		},
+		"fmh_horse_chestnut": {
+			"textures": "textures/items/horse_chestnut"
+		},
+		"fmh_horse_creamy": {
+			"textures": "textures/items/horse_creamy"
+		},
+		"fmh_horse_dark_brown": {
+			"textures": "textures/items/horse_dark_brown"
+		},
+		"fmh_horse_gray": {
+			"textures": "textures/items/horse_gray"
+		},
+		"fmh_horse_skeleton": {
+			"textures": "textures/items/horse_skeleton"
+		},
+		"fmh_horse_white": {
+			"textures": "textures/items/horse_white"
+		},
+		"fmh_husk": {
+			"textures": "textures/items/husk"
+		},
+		"fmh_iron_golem": {
+			"textures": "textures/items/iron_golem"
+		},
+		"fmh_llama_brown": {
+			"textures": "textures/items/llama_brown"
+		},
+		"fmh_llama_creamy": {
+			"textures": "textures/items/llama_creamy"
+		},
+		"fmh_llama_light_gray": {
+			"textures": "textures/items/llama_light_gray"
+		},
+		"fmh_llama_white": {
+			"textures": "textures/items/llama_white"
+		},
+		"fmh_magma_cube": {
+			"textures": "textures/items/magma_cube"
+		},
+		"fmh_mooshroom_brown": {
+			"textures": "textures/items/mooshroom_brown"
+		},
+		"fmh_mooshroom_red": {
+			"textures": "textures/items/mooshroom_red"
+		},
+		"fmh_mule": {
+			"textures": "textures/items/mule"
+		},
+		"fmh_ocelot": {
+			"textures": "textures/items/ocelot"
+		},
+		"fmh_panda_aggressive": {
+			"textures": "textures/items/panda_aggressive"
+		},
+		"fmh_panda_brown": {
+			"textures": "textures/items/panda_brown"
+		},
+		"fmh_panda_lazy": {
+			"textures": "textures/items/panda_lazy"
+		},
+		"fmh_panda_playful": {
+			"textures": "textures/items/panda_playful"
+		},
+		"fmh_panda_sneezy": {
+			"textures": "textures/items/panda_sneezy"
+		},
+		"fmh_panda_worried": {
+			"textures": "textures/items/panda_worried"
+		},
+		"fmh_panda": {
+			"textures": "textures/items/panda"
+		},
+		"fmh_parrot_blue": {
+			"textures": "textures/items/parrot_blue"
+		},
+		"fmh_parrot_cyan": {
+			"textures": "textures/items/parrot_cyan"
+		},
+		"fmh_parrot_gray": {
+			"textures": "textures/items/parrot_gray"
+		},
+		"fmh_parrot_green": {
+			"textures": "textures/items/parrot_green"
+		},
+		"fmh_parrot_red": {
+			"textures": "textures/items/parrot_red"
+		},
+		"fmh_phantom": {
+			"textures": "textures/items/phantom"
+		},
+		"fmh_pig": {
+			"textures": "textures/items/pig"
+		},
+		"fmh_piglin": {
+			"textures": "textures/items/piglin"
+		},
+		"fmh_piglin_brute": {
+			"textures": "textures/items/piglin_brute"
+		},
+		"fmh_pillager": {
+			"textures": "textures/items/pillager"
+		},
+		"fmh_polar_bear": {
+			"textures": "textures/items/polar_bear"
+		},
+		"fmh_pufferfish": {
+			"textures": "textures/items/pufferfish"
+		},
+		"fmh_rabbit_black": {
+			"textures": "textures/items/rabbit_black"
+		},
+		"fmh_rabbit_brown": {
+			"textures": "textures/items/rabbit_brown"
+		},
+		"fmh_rabbit_gold": {
+			"textures": "textures/items/rabbit_gold"
+		},
+		"fmh_rabbit_salt": {
+			"textures": "textures/items/rabbit_salt"
+		},
+		"fmh_rabbit_toast": {
+			"textures": "textures/items/rabbit_toast"
+		},
+		"fmh_rabbit_white": {
+			"textures": "textures/items/rabbit_white"
+		},
+		"fmh_rabbit_white_splotched": {
+			"textures": "textures/items/rabbit_white_splotched"
+		},
+		"fmh_ravager": {
+			"textures": "textures/items/ravager"
+		},
+		"fmh_salmon": {
+			"textures": "textures/items/salmon"
+		},
+		"fmh_sheep_black": {
+			"textures": "textures/items/sheep_black"
+		},
+		"fmh_sheep_blue": {
+			"textures": "textures/items/sheep_blue"
+		},
+		"fmh_sheep_brown": {
+			"textures": "textures/items/sheep_brown"
+		},
+		"fmh_sheep_cyan": {
+			"textures": "textures/items/sheep_cyan"
+		},
+		"fmh_sheep_gray": {
+			"textures": "textures/items/sheep_gray"
+		},
+		"fmh_sheep_green": {
+			"textures": "textures/items/sheep_green"
+		},
+		"fmh_sheep_jeb": {
+			"textures": "textures/items/sheep_jeb"
+		},
+		"fmh_sheep_light_blue": {
+			"textures": "textures/items/sheep_light_blue"
+		},
+		"fmh_sheep_light_gray": {
+			"textures": "textures/items/sheep_light_gray"
+		},
+		"fmh_sheep_lime": {
+			"textures": "textures/items/sheep_lime"
+		},
+		"fmh_sheep_magenta": {
+			"textures": "textures/items/sheep_magenta"
+		},
+		"fmh_sheep_orange": {
+			"textures": "textures/items/sheep_orange"
+		},
+		"fmh_sheep_pink": {
+			"textures": "textures/items/sheep_pink"
+		},
+		"fmh_sheep_purple": {
+			"textures": "textures/items/sheep_purple"
+		},
+		"fmh_sheep_red": {
+			"textures": "textures/items/sheep_red"
+		},
+		"fmh_sheep_white": {
+			"textures": "textures/items/sheep_white"
+		},
+		"fmh_sheep_yellow": {
+			"textures": "textures/items/sheep_yellow"
+		},
+		"fmh_shulker": {
+			"textures": "textures/items/shulker"
+		},
+		"fmh_silverfish": {
+			"textures": "textures/items/silverfish"
+		},
+		"fmh_slime": {
+			"textures": "textures/items/slime"
+		},
+		"fmh_snow_golem": {
+			"textures": "textures/items/snow_golem"
+		},
+		"fmh_spider": {
+			"textures": "textures/items/spider"
+		},
+		"fmh_squid": {
+			"textures": "textures/items/squid"
+		},
+		"fmh_stray": {
+			"textures": "textures/items/stray"
+		},
+		"fmh_strider_shiver": {
+			"textures": "textures/items/strider_shiver"
+		},
+		"fmh_strider": {
+			"textures": "textures/items/strider"
+		},
+		"fmh_tropical_fish": {
+			"textures": "textures/items/tropical_fish"
+		},
+		"fmh_turtle": {
+			"textures": "textures/items/turtle"
+		},
+		"fmh_vex": {
+			"textures": "textures/items/vex"
+		},
+		"fmh_villager_desert_armorer": {
+			"textures": "textures/items/villager_desert_armorer"
+		},
+		"fmh_villager_desert_butcher": {
+			"textures": "textures/items/villager_desert_butcher"
+		},
+		"fmh_villager_desert_cartographer": {
+			"textures": "textures/items/villager_desert_cartographer"
+		},
+		"fmh_villager_desert_cleric": {
+			"textures": "textures/items/villager_desert_cleric"
+		},
+		"fmh_villager_desert_farmer": {
+			"textures": "textures/items/villager_desert_farmer"
+		},
+		"fmh_villager_desert_fisherman": {
+			"textures": "textures/items/villager_desert_fisherman"
+		},
+		"fmh_villager_desert_fletcher": {
+			"textures": "textures/items/villager_desert_fletcher"
+		},
+		"fmh_villager_desert_leatherworker": {
+			"textures": "textures/items/villager_desert_leatherworker"
+		},
+		"fmh_villager_desert_librarian": {
+			"textures": "textures/items/villager_desert_librarian"
+		},
+		"fmh_villager_desert_nitwit": {
+			"textures": "textures/items/villager_desert_nitwit"
+		},
+		"fmh_villager_desert_shepherd": {
+			"textures": "textures/items/villager_desert_shepherd"
+		},
+		"fmh_villager_desert_stonemason": {
+			"textures": "textures/items/villager_desert_stonemason"
+		},
+		"fmh_villager_desert_toolsmith": {
+			"textures": "textures/items/villager_desert_toolsmith"
+		},
+		"fmh_villager_desert_unskilled": {
+			"textures": "textures/items/villager_desert_unskilled"
+		},
+		"fmh_villager_desert_weaponsmith": {
+			"textures": "textures/items/villager_desert_weaponsmith"
+		},
+		"fmh_villager_jungle_armorer": {
+			"textures": "textures/items/villager_jungle_armorer"
+		},
+		"fmh_villager_jungle_butcher": {
+			"textures": "textures/items/villager_jungle_butcher"
+		},
+		"fmh_villager_jungle_cartographer": {
+			"textures": "textures/items/villager_jungle_cartographer"
+		},
+		"fmh_villager_jungle_cleric": {
+			"textures": "textures/items/villager_jungle_cleric"
+		},
+		"fmh_villager_jungle_farmer": {
+			"textures": "textures/items/villager_jungle_farmer"
+		},
+		"fmh_villager_jungle_fisherman": {
+			"textures": "textures/items/villager_jungle_fisherman"
+		},
+		"fmh_villager_jungle_fletcher": {
+			"textures": "textures/items/villager_jungle_fletcher"
+		},
+		"fmh_villager_jungle_leatherworker": {
+			"textures": "textures/items/villager_jungle_leatherworker"
+		},
+		"fmh_villager_jungle_librarian": {
+			"textures": "textures/items/villager_jungle_librarian"
+		},
+		"fmh_villager_jungle_nitwit": {
+			"textures": "textures/items/villager_jungle_nitwit"
+		},
+		"fmh_villager_jungle_shepherd": {
+			"textures": "textures/items/villager_jungle_shepherd"
+		},
+		"fmh_villager_jungle_stonemason": {
+			"textures": "textures/items/villager_jungle_stonemason"
+		},
+		"fmh_villager_jungle_toolsmith": {
+			"textures": "textures/items/villager_jungle_toolsmith"
+		},
+		"fmh_villager_jungle_unskilled": {
+			"textures": "textures/items/villager_jungle_unskilled"
+		},
+		"fmh_villager_jungle_weaponsmith": {
+			"textures": "textures/items/villager_jungle_weaponsmith"
+		},
+		"fmh_villager_plains_armorer": {
+			"textures": "textures/items/villager_plains_armorer"
+		},
+		"fmh_villager_plains_butcher": {
+			"textures": "textures/items/villager_plains_butcher"
+		},
+		"fmh_villager_plains_cartographer": {
+			"textures": "textures/items/villager_plains_cartographer"
+		},
+		"fmh_villager_plains_cleric": {
+			"textures": "textures/items/villager_plains_cleric"
+		},
+		"fmh_villager_plains_farmer": {
+			"textures": "textures/items/villager_plains_farmer"
+		},
+		"fmh_villager_plains_fisherman": {
+			"textures": "textures/items/villager_plains_fisherman"
+		},
+		"fmh_villager_plains_fletcher": {
+			"textures": "textures/items/villager_plains_fletcher"
+		},
+		"fmh_villager_plains_leatherworker": {
+			"textures": "textures/items/villager_plains_leatherworker"
+		},
+		"fmh_villager_plains_librarian": {
+			"textures": "textures/items/villager_plains_librarian"
+		},
+		"fmh_villager_plains_nitwit": {
+			"textures": "textures/items/villager_plains_nitwit"
+		},
+		"fmh_villager_plains_shepherd": {
+			"textures": "textures/items/villager_plains_shepherd"
+		},
+		"fmh_villager_plains_stonemason": {
+			"textures": "textures/items/villager_plains_stonemason"
+		},
+		"fmh_villager_plains_toolsmith": {
+			"textures": "textures/items/villager_plains_toolsmith"
+		},
+		"fmh_villager_plains_unskilled": {
+			"textures": "textures/items/villager_plains_unskilled"
+		},
+		"fmh_villager_plains_weaponsmith": {
+			"textures": "textures/items/villager_plains_weaponsmith"
+		},
+		"fmh_villager_savanna_armorer": {
+			"textures": "textures/items/villager_savanna_armorer"
+		},
+		"fmh_villager_savanna_butcher": {
+			"textures": "textures/items/villager_savanna_butcher"
+		},
+		"fmh_villager_savanna_cartographer": {
+			"textures": "textures/items/villager_savanna_cartographer"
+		},
+		"fmh_villager_savanna_cleric": {
+			"textures": "textures/items/villager_savanna_cleric"
+		},
+		"fmh_villager_savanna_farmer": {
+			"textures": "textures/items/villager_savanna_farmer"
+		},
+		"fmh_villager_savanna_fisherman": {
+			"textures": "textures/items/villager_savanna_fisherman"
+		},
+		"fmh_villager_savanna_fletcher": {
+			"textures": "textures/items/villager_savanna_fletcher"
+		},
+		"fmh_villager_savanna_leatherworker": {
+			"textures": "textures/items/villager_savanna_leatherworker"
+		},
+		"fmh_villager_savanna_librarian": {
+			"textures": "textures/items/villager_savanna_librarian"
+		},
+		"fmh_villager_savanna_nitwit": {
+			"textures": "textures/items/villager_savanna_nitwit"
+		},
+		"fmh_villager_savanna_shepherd": {
+			"textures": "textures/items/villager_savanna_shepherd"
+		},
+		"fmh_villager_savanna_stonemason": {
+			"textures": "textures/items/villager_savanna_stonemason"
+		},
+		"fmh_villager_savanna_toolsmith": {
+			"textures": "textures/items/villager_savanna_toolsmith"
+		},
+		"fmh_villager_savanna_unskilled": {
+			"textures": "textures/items/villager_savanna_unskilled"
+		},
+		"fmh_villager_savanna_weaponsmith": {
+			"textures": "textures/items/villager_savanna_weaponsmith"
+		},
+		"fmh_villager_snow_armorer": {
+			"textures": "textures/items/villager_snow_armorer"
+		},
+		"fmh_villager_snow_butcher": {
+			"textures": "textures/items/villager_snow_butcher"
+		},
+		"fmh_villager_snow_cartographer": {
+			"textures": "textures/items/villager_snow_cartographer"
+		},
+		"fmh_villager_snow_cleric": {
+			"textures": "textures/items/villager_snow_cleric"
+		},
+		"fmh_villager_snow_farmer": {
+			"textures": "textures/items/villager_snow_farmer"
+		},
+		"fmh_villager_snow_fisherman": {
+			"textures": "textures/items/villager_snow_fisherman"
+		},
+		"fmh_villager_snow_fletcher": {
+			"textures": "textures/items/villager_snow_fletcher"
+		},
+		"fmh_villager_snow_leatherworker": {
+			"textures": "textures/items/villager_snow_leatherworker"
+		},
+		"fmh_villager_snow_librarian": {
+			"textures": "textures/items/villager_snow_librarian"
+		},
+		"fmh_villager_snow_nitwit": {
+			"textures": "textures/items/villager_snow_nitwit"
+		},
+		"fmh_villager_snow_shepherd": {
+			"textures": "textures/items/villager_snow_shepherd"
+		},
+		"fmh_villager_snow_stonemason": {
+			"textures": "textures/items/villager_snow_stonemason"
+		},
+		"fmh_villager_snow_toolsmith": {
+			"textures": "textures/items/villager_snow_toolsmith"
+		},
+		"fmh_villager_snow_unskilled": {
+			"textures": "textures/items/villager_snow_unskilled"
+		},
+		"fmh_villager_snow_weaponsmith": {
+			"textures": "textures/items/villager_snow_weaponsmith"
+		},
+		"fmh_villager_swamp_armorer": {
+			"textures": "textures/items/villager_swamp_armorer"
+		},
+		"fmh_villager_swamp_butcher": {
+			"textures": "textures/items/villager_swamp_butcher"
+		},
+		"fmh_villager_swamp_cartographer": {
+			"textures": "textures/items/villager_swamp_cartographer"
+		},
+		"fmh_villager_swamp_cleric": {
+			"textures": "textures/items/villager_swamp_cleric"
+		},
+		"fmh_villager_swamp_farmer": {
+			"textures": "textures/items/villager_swamp_farmer"
+		},
+		"fmh_villager_swamp_fisherman": {
+			"textures": "textures/items/villager_swamp_fisherman"
+		},
+		"fmh_villager_swamp_fletcher": {
+			"textures": "textures/items/villager_swamp_fletcher"
+		},
+		"fmh_villager_swamp_leatherworker": {
+			"textures": "textures/items/villager_swamp_leatherworker"
+		},
+		"fmh_villager_swamp_librarian": {
+			"textures": "textures/items/villager_swamp_librarian"
+		},
+		"fmh_villager_swamp_nitwit": {
+			"textures": "textures/items/villager_swamp_nitwit"
+		},
+		"fmh_villager_swamp_shepherd": {
+			"textures": "textures/items/villager_swamp_shepherd"
+		},
+		"fmh_villager_swamp_stonemason": {
+			"textures": "textures/items/villager_swamp_stonemason"
+		},
+		"fmh_villager_swamp_toolsmith": {
+			"textures": "textures/items/villager_swamp_toolsmith"
+		},
+		"fmh_villager_swamp_unskilled": {
+			"textures": "textures/items/villager_swamp_unskilled"
+		},
+		"fmh_villager_swamp_weaponsmith": {
+			"textures": "textures/items/villager_swamp_weaponsmith"
+		},
+		"fmh_villager_taiga_armorer": {
+			"textures": "textures/items/villager_taiga_armorer"
+		},
+		"fmh_villager_taiga_butcher": {
+			"textures": "textures/items/villager_taiga_butcher"
+		},
+		"fmh_villager_taiga_cartographer": {
+			"textures": "textures/items/villager_taiga_cartographer"
+		},
+		"fmh_villager_taiga_cleric": {
+			"textures": "textures/items/villager_taiga_cleric"
+		},
+		"fmh_villager_taiga_farmer": {
+			"textures": "textures/items/villager_taiga_farmer"
+		},
+		"fmh_villager_taiga_fisherman": {
+			"textures": "textures/items/villager_taiga_fisherman"
+		},
+		"fmh_villager_taiga_fletcher": {
+			"textures": "textures/items/villager_taiga_fletcher"
+		},
+		"fmh_villager_taiga_leatherworker": {
+			"textures": "textures/items/villager_taiga_leatherworker"
+		},
+		"fmh_villager_taiga_librarian": {
+			"textures": "textures/items/villager_taiga_librarian"
+		},
+		"fmh_villager_taiga_nitwit": {
+			"textures": "textures/items/villager_taiga_nitwit"
+		},
+		"fmh_villager_taiga_shepherd": {
+			"textures": "textures/items/villager_taiga_shepherd"
+		},
+		"fmh_villager_taiga_stonemason": {
+			"textures": "textures/items/villager_taiga_stonemason"
+		},
+		"fmh_villager_taiga_toolsmith": {
+			"textures": "textures/items/villager_taiga_toolsmith"
+		},
+		"fmh_villager_taiga_unskilled": {
+			"textures": "textures/items/villager_taiga_unskilled"
+		},
+		"fmh_villager_taiga_weaponsmith": {
+			"textures": "textures/items/villager_taiga_weaponsmith"
+		},
+		"fmh_vindicator": {
+			"textures": "textures/items/vindicator"
+		},
+		"fmh_wandering_trader": {
+			"textures": "textures/items/wandering_trader"
+		},
+		"fmh_witch": {
+			"textures": "textures/items/witch"
+		},
+		"fmh_armored_wither": {
+			"textures": "textures/items/armored_wither"
+		},
+		"fmh_armored_invulnerable_wither": {
+			"textures": "textures/items/armored_invulnerable_wither"
+		},
+		"fmh_invulnerable_wither": {
+			"textures": "textures/items/invulnerable_wither"
+		},
+		"fmh_wither": {
+			"textures": "textures/items/wither"
+		},
+		"fmh_wolf_angry": {
+			"textures": "textures/items/wolf_angry"
+		},
+		"fmh_wolf_tame": {
+			"textures": "textures/items/wolf_tame"
+		},
+		"fmh_wolf_wild": {
+			"textures": "textures/items/wolf_wild"
+		},
+		"fmh_zoglin": {
+			"textures": "textures/items/zoglin"
+		},
+		"fmh_zombie_pigman": {
+			"textures": "textures/items/zombie_pigman"
+		},
+		"fmh_zombie_villager": {
+			"textures": "textures/items/zombie_villager"
+		},
+		"fmh_zombified_piglin": {
+			"textures": "textures/items/zombified_piglin"
+		}
+	}
+}

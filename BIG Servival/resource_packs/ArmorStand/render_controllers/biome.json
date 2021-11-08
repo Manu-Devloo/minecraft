@@ -1,0 +1,47 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.marker.biome": {
+			"arrays": {
+				"textures": {
+					"Array.biomes": [
+						"Texture.biome_overworld",
+						"Texture.biome_the_end",
+						"Texture.biome_nether",
+						"Texture.biome_ocean",
+						"Texture.biome_river",
+						"Texture.biome_bamboo_jungle",
+						"Texture.biome_beach",
+						"Texture.biome_birch_forest",
+						"Texture.biome_desert",
+						"Texture.biome_extreme_hills",
+						"Texture.biome_flower_forest",
+						"Texture.biome_ice_mountains",
+						"Texture.biome_ice_plains",
+						"Texture.biome_jungle",
+						"Texture.biome_mesa",
+						"Texture.biome_mushroom_island",
+						"Texture.biome_plains",
+						"Texture.biome_roofed_forest",
+						"Texture.biome_savanna",
+						"Texture.biome_swamp",
+						"Texture.biome_taiga",
+						"Texture.biome_basalt_delta",
+						"Texture.biome_crimson_forest",
+						"Texture.biome_soulsand_valley",
+						"Texture.biome_warped_forest"
+					]
+				}
+			},
+			"geometry": "Geometry.biome",
+			"materials": [
+				{
+					"*": "Material.entity"
+				}
+			],
+			"textures": [
+				"Array.biomes[variable.biome]"
+			]
+		}
+	}
+}

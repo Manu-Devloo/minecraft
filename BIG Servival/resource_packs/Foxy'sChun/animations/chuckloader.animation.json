@@ -1,0 +1,76 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.fcl_chunkloader.move" : {
+			"loop" : true,
+			"bones" : {
+				"body" : {
+					"position" : [ 0.0, "variable.fcl_chunkloader.easein * (math.sin(query.life_time * 114.6 * variable.fcl_chunkloader.movespeedscalar) + 1.0) * 1.12", 0.0 ]
+				},
+				"leftarm" : {
+					"rotation" : [ "((-0.2 + 1.5 * (math.abs(math.mod(query.modified_distance_moved, 13) - 6.5) - 3.25) / 3.25) * query.modified_move_speed) * 57.3 - variable.fcl_chunkloader.armxrotationfactor", 0.0, "-variable.fcl_chunkloader.armzrotation" ]
+				},
+				"leftleg" : {
+					"rotation" : [ "((-1.5 * (math.abs(math.mod(query.modified_distance_moved, 13) - 6.5) - 3.25) / 3.25) * query.modified_move_speed) * 57.3 + (variable.fcl_chunkloader.ishovering * variable.fcl_chunkloader.legxrotationfactor)", 0.0, 0.0 ]
+				},
+				"rightarm" : {
+					"rotation" : [ "((-0.2 - 1.5 * (math.abs(math.mod(query.modified_distance_moved, 13) - 6.5) - 3.25) / 3.25) * query.modified_move_speed) * 57.3 + variable.fcl_chunkloader.armxrotationfactor", 0.0, "variable.fcl_chunkloader.armzrotation" ]
+				},
+				"rightleg" : {
+					"rotation" : [ "((1.5 * (math.abs(math.mod(query.modified_distance_moved, 13) - 6.5) - 3.25) / 3.25) * query.modified_move_speed) * 57.3 - (variable.fcl_chunkloader.ishovering * variable.fcl_chunkloader.legxrotationfactor)", 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fcl_chunkloader.standing" : {
+			"loop" : true,
+			"bones" : {
+				"rightarm" : {
+					"rotation" : [ "(-2.0 + 1.5 * (math.abs(math.mod(variable.fcl_chunkloader.swinganimationtick - query.frame_alpha, variable.fcl_chunkloader.swinganimationduration) - variable.fcl_chunkloader.swinganimationduration * 0.5) - variable.fcl_chunkloader.swinganimationduration * 0.25) / (variable.fcl_chunkloader.swinganimationduration * 0.25)) * 57.3", 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fcl_chunkloader.sitting" : {
+			"loop" : true,
+			"bones" : {
+				"root" : {
+					"position" : [ 0.0, -8.0, 0.0 ]
+				},
+				"head" : {
+					"position" : [ 0.0, 0.0, 0.0 ]
+				},
+				"body" : {
+					"position" : [ 0.0, 0.0, 0.0 ]
+				},
+				"leftarm" : {
+					"rotation" : [ -36.0, 0.0, 0.0 ],
+					"position" : [ 0.0, 0.0, 0.0 ]
+				},
+				"rightarm" : {
+					"rotation" : [ -36.0, 0.0, 0.0 ],
+					"position" : [ 0.0, 0.0, 0.0 ]
+				},
+				"leftleg" : {
+					"rotation" : [ "-90.0 - this", "-18.0 - this", "-this" ],
+					"position" : [ 0.0, 0.0, 0.0 ]
+				},
+				"rightleg" : {
+					"rotation" : [ "-90.0 - this", "18.0 - this", "-this" ],
+					"position" : [ 0.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fcl_chunkloader.sleeping" : {
+			"loop" : true,
+			"override_previous_animation" : true,
+			"bones" : {
+				"head" : {
+					"rotation" : [ "30.0 - this", "-this", "-this" ]
+				},
+				"root" : {
+					"position" : [ "24.0 * math.cos(query.body_y_rotation) * math.cos(query.sleep_rotation) - 24.0 * math.sin(query.body_y_rotation) * math.sin(query.sleep_rotation)", 4.0, "24.0 * math.cos(query.body_y_rotation) * math.sin(query.sleep_rotation) + 24.0 * math.sin(query.body_y_rotation) * math.cos(query.sleep_rotation)" ],
+					"rotation" : [ -90.0, "270.0 - query.sleep_rotation - query.body_y_rotation", 0.0 ]
+				}
+			}
+		}
+	}
+}

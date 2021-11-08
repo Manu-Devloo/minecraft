@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Pack By §6FoxyNoTail§r | Removes Vignette at the bottom of the world. | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+		"name": "§6Foxy's§r §l§bNo Vignette§r v3.0.0 [R]",
+		"uuid": "ebc24b5e-c2da-47e4-b7bb-a83cbcfe884d",
+		"version": [
+			3,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			201
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "d4befe4c-a88f-4fe9-9aff-1ad2523daedd",
+			"version": [
+				3,
+				0,
+				0
+			]
+		}
+	]
+}

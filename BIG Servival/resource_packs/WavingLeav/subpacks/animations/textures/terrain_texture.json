@@ -1,0 +1,186 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "flower_dandelion": {
+      "textures": "textures/blocks/flower_dandelion"
+    },
+    "flower_rose": {
+      "textures": [
+        "textures/blocks/flower_rose"
+      ]
+    },
+	"cave_vines_body_berries": {
+      "textures": [
+        "textures/blocks/cave_vines_body_berries"
+      ]
+    },
+	"cave_vines_head_berries": {
+      "textures": [
+        "textures/blocks/cave_vines_head_berries"
+      ]
+    },
+	"flower_blue_orchid": {
+      "textures": [
+        "textures/blocks/flower_blue_orchid"
+      ]
+    },
+    "none" : {
+       "textures" : [
+          "textures/blocks/none"
+      ]
+    },
+    "reeds_side_green" : {
+       "textures" : [
+          "textures/blocks/reeds_side_green"
+       ]
+    },
+    "waterlily" : {
+       "textures" : [
+          "textures/blocks/waterlily"
+       ]
+    },
+	"flower_allium": {
+      "textures": [
+        "textures/blocks/flower_allium"
+      ]
+    },
+	"flower_houstonia": {
+      "textures": [
+        "textures/blocks/flower_houstonia"
+      ]
+    },
+	"flower_tulip_red": {
+      "textures": [
+        "textures/blocks/flower_tulip_red"
+      ]
+    },
+	"flower_tulip_orange": {
+      "textures": [
+        "textures/blocks/flower_tulip_orange"
+      ]
+    },
+	"flower_tulip_white": {
+      "textures": [
+        "textures/blocks/flower_tulip_white"
+      ]
+    },
+	"flower_tulip_pink": {
+      "textures": [
+        "textures/blocks/flower_tulip_pink"
+      ]
+    },
+	"flower_oxeye_daisy": {
+      "textures": [
+        "textures/blocks/flower_oxeye_daisy"
+      ]
+    },
+	"flower_cornflower": {
+      "textures": [
+        "textures/blocks/flower_cornflower"
+      ]
+    },
+	"flower_lily_of_the_valley": {
+      "textures": [
+        "textures/blocks/flower_lily_of_the_valley"
+      ]
+    },
+	"flower_wither_rose": {
+      "textures": [
+        "textures/blocks/flower_wither_rose"
+      ]
+    },
+	"double_plant_rose_top": {
+      "textures": [
+        "textures/blocks/double_plant_rose_top"
+      ]
+    },
+	"double_plant_rose_bottom": {
+      "textures": [
+        "textures/blocks/double_plant_rose_bottom"
+      ]
+    },
+	"double_plant_paeonia_top": {
+      "textures": [
+        "textures/blocks/double_plant_paeonia_top"
+      ]
+    },
+	"double_plant_paeonia_bottom": {
+      "textures": [
+        "textures/blocks/double_plant_paeonia_bottom"
+      ]
+    },
+	"double_plant_syringa_top": {
+      "textures": [
+        "textures/blocks/double_plant_syringa_top"
+      ]
+    },
+	"double_plant_syringa_bottom": {
+      "textures": [
+        "textures/blocks/double_plant_syringa_bottom"
+      ]
+    },
+	"double_plant_sunflower_bottom": {
+      "textures": [
+        "textures/blocks/double_plant_sunflower_bottom"
+      ]
+    },
+	"double_plant_sunflower_top": {
+      "textures": [
+        "textures/blocks/double_plant_sunflower_top"
+      ]
+    },
+	"sweet_berry_bush_stage0": {
+      "textures": [
+        "textures/blocks/sweet_berry_bush_stage0"
+      ]
+    },
+	"sweet_berry_bush_stage1": {
+      "textures": [
+        "textures/blocks/sweet_berry_bush_stage1"
+      ]
+    },
+	"sweet_berry_bush_stage2": {
+      "textures": [
+        "textures/blocks/sweet_berry_bush_stage2"
+      ]
+    },
+	"sweet_berry_bush_stage3": {
+      "textures": [
+        "textures/blocks/sweet_berry_bush_stage3"
+      ]
+    },
+	"sapling_acacia": {
+      "textures": [
+        "textures/blocks/sapling_acacia"
+      ]
+    },
+	"sapling_oak": {
+      "textures": [
+        "textures/blocks/sapling_oak"
+      ]
+    },
+	"sapling_birch": {
+      "textures": [
+        "textures/blocks/sapling_birch"
+      ]
+    },
+	"sapling_roofed_oak": {
+      "textures": [
+        "textures/blocks/sapling_roofed_oak"
+      ]
+    },
+	"sapling_spruce": {
+      "textures": [
+        "textures/blocks/sapling_spruce"
+      ]
+    },
+	"sapling_jungle": {
+      "textures": [
+        "textures/blocks/sapling_jungle"
+      ]
+    }
+  }
+}

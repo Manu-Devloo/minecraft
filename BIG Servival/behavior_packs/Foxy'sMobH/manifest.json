@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Mobs drop their heads when killed by the player | Check the README for details | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r §l§bMob Heads§r v6.0.1 [B]",
+        "uuid": "2a6b70c2-dcfb-4ff2-8bc3-13f315c9df91",
+        "version": [6, 0, 1],
+		"min_engine_version": [ 1, 16, 201 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "a972f550-cde7-4791-97e0-e7279413fb74",
+            "version": [6, 0, 1]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "7b165371-7294-422c-b478-d5c02cf49841",
+		"version": [6, 0, 1]
+	  }
+	]
+}

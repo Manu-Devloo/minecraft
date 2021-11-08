@@ -1,0 +1,16 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "v1.1.1 | Pack By §6FoxyNoTail§r | All of the textures in the game are brighter | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons",
+      "name" : "§6Foxy's §r§l§bBrighter Textures§r [R]",
+      "uuid" : "30f3f50b-ab0c-46ff-ae75-c6a7f7c99e8e",
+      "version" : [ 1, 1, 1 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "3e7a507a-fc1f-45ea-81c8-bcb739322a7e",
+         "version" : [ 1, 1, 1 ]
+      }
+   ]
+}

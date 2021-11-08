@@ -1,0 +1,265 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.biome": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"plains": "query.variant == 1"
+						},
+						{
+							"desert": "query.variant == 2"
+						},
+						{
+							"jungle": "query.variant == 3"
+						},
+						{
+							"swamp": "query.variant == 4"
+						},
+						{
+							"mesa": "query.variant == 5"
+						},
+						{
+							"nether": "query.variant == 6"
+						},
+						{
+							"ice": "query.variant == 7"
+						},
+						{
+							"end": "query.variant == 8"
+						},
+						{
+							"ocean": "query.variant == 9"
+						},
+						{
+							"forest": "query.variant == 10"
+						},
+						{
+							"hills": "query.variant == 11"
+						},
+						{
+							"beach": "query.variant == 12"
+						},
+						{
+							"flat": "query.variant == 13"
+						},
+						{
+							"mushroom": "query.variant == 14"
+						},
+						{
+							"river": "query.variant == 15"
+						},
+						{
+							"savanna": "query.variant == 16"
+						},
+						{
+							"stone_beach": "query.variant == 17"
+						},
+						{
+							"taiga": "query.variant == 18"
+						}
+					]
+				},
+				"plains": {
+					"transitions": [
+						{
+							"default": "query.variant == 1"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §aPlains§f Biome"
+					]
+				},
+				"desert": {
+					"transitions": [
+						{
+							"default": "query.variant == 2"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §6Desert§f Biome"
+					]
+				},
+				"jungle": {
+					"transitions": [
+						{
+							"default": "query.variant == 3"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §2Jungle§f Biome"
+					]
+				},
+				"swamp": {
+					"transitions": [
+						{
+							"default": "query.variant == 4"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §dSwamp§f Biome"
+					]
+				},
+				"mesa": {
+					"transitions": [
+						{
+							"default": "query.variant == 5"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §cMesa§f Biome"
+					]
+				},
+				"nether": {
+					"transitions": [
+						{
+							"default": "query.variant == 6"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §4Nether§f Biome"
+					]
+				},
+				"ice": {
+					"transitions": [
+						{
+							"default": "query.variant == 7"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §9Ice§f Biome"
+					]
+				},
+				"end": {
+					"transitions": [
+						{
+							"default": "query.variant == 8"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §5End§f Biome"
+					]
+				},
+			    "ocean": {
+					"transitions": [
+						{
+							"default": "query.variant == 9"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §1Ocean§f Biome"
+					]
+				},
+				"forest": {
+					"transitions": [
+						{
+							"default": "query.variant == 10"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §2Forest§f Biome"
+					]
+				},
+				"hills": {
+					"transitions": [
+						{
+							"default": "query.variant == 11"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §7Extreme Hills§f Biome"
+					]
+				},
+				"beach": {
+					"transitions": [
+						{
+							"default": "query.variant == 12"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §gBeach§f Biome"
+					]
+				},
+				"flat": {
+					"transitions": [
+						{
+							"default": "query.variant == 13"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §dFlat??!§f Biome"
+					]
+				},
+				"mushroom": {
+					"transitions": [
+						{
+							"default": "query.variant == 14"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §5Mushroom Island§f Biome"
+					]
+				},
+				"river": {
+					"transitions": [
+						{
+							"default": "query.variant == 15"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §bRiver§f Biome"
+					]
+				},
+				"savanna": {
+					"transitions": [
+						{
+							"default": "query.variant == 16"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §6Savanna§f Biome"
+					]
+				},
+				"stone_beach": {
+					"transitions": [
+						{
+							"default": "query.variant == 17"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §8Stone Beach§f Biome"
+					]
+				},
+			    "taiga": {
+					"transitions": [
+						{
+							"default": "query.variant == 18"
+						}
+					],
+					"on_entry": [
+						"/tp @e[type=drp:biome_checker,rm=0,r=1.5,c=1] ~ ~-0.5 ~",
+						"/execute @p[rm=0,r=1.5,c=1] ~ ~ ~ title @p[rm=0,r=1.5,c=1] actionbar §0Taiga§f Biome"
+					]
+				}
+			}
+		}
+	}
+}

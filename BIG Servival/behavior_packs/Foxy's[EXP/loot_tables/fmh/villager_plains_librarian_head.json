@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+					"type": "item",
+					"name": "fmh:villager_plains_librarian_item",
+					"weight": 1
+				}
+            ]
+        }
+    ]
+}

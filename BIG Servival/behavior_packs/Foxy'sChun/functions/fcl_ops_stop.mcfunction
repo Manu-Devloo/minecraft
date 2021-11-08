@@ -1,0 +1,1 @@
+weather clear 72000

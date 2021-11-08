@@ -1,0 +1,20 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"fcl:fcl_chunkloader": {
+				"volume": 1.0,
+				"pitch": [
+					1.0,
+					1.0
+				],
+				"events": {
+					"haggle": "mob.fcl_chunkloader.ok",
+					"haggle.yes": "mob.fcl_chunkloader.ya",
+					"death": "beacon.deactivate",
+					"hurt": "conduit.activate",
+					"celebrate": "conduit.deactivate"
+				}
+			}
+		}
+	}
+}

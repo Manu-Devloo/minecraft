@@ -1,0 +1,437 @@
+{
+	"format_version": "1.14.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "drp:biome_checker",
+			"is_spawnable": false,
+			"is_summonable": true,
+			"is_experimental": false,
+			"scripts": {
+				"animate": [
+					"biome"
+				]
+			},
+			"animations": {
+				"biome": "controller.animation.biome"
+			}
+		},
+		"component_groups": {
+			"drp:plains_biome": {
+				"minecraft:variant": {
+					"value": 1
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:desert_biome": {
+				"minecraft:variant": {
+					"value": 2
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:jungle_biome": {
+				"minecraft:variant": {
+					"value": 3
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:swamp_biome": {
+				"minecraft:variant": {
+					"value": 4
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:mesa_biome": {
+				"minecraft:variant": {
+					"value": 5
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:nether_biome": {
+				"minecraft:variant": {
+					"value": 6
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:ice_biome": {
+				"minecraft:variant": {
+					"value": 7
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:end_biome": {
+				"minecraft:variant": {
+					"value": 8
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:ocean_biome": {
+				"minecraft:variant": {
+					"value": 9
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:forest_biome": {
+				"minecraft:variant": {
+					"value": 10
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:extreme_hills_biome": {
+				"minecraft:variant": {
+					"value": 11
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:beach_biome": {
+				"minecraft:variant": {
+					"value": 12
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:flat_biome": {
+				"minecraft:variant": {
+					"value": 13
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:mushroom_island_biome": {
+				"minecraft:variant": {
+					"value": 14
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:river_biome": {
+				"minecraft:variant": {
+					"value": 15
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:savanna_biome": {
+				"minecraft:variant": {
+					"value": 16
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:stone_beach_biome": {
+				"minecraft:variant": {
+					"value": 17
+				},
+				"minecraft:despawn": {}
+			},
+			"drp:taiga_biome": {
+				"minecraft:variant": {
+					"value": 18
+				},
+				"minecraft:despawn": {}
+			}
+		},
+		"components": {
+			"minecraft:scale": {
+				"value": 0.001
+			},
+			"minecraft:collision_box": {
+				"width": 0.001,
+				"height": 0.001
+			},
+			"minecraft:health": {
+				"value": 0.5,
+				"max": 0.5
+			},
+			"minecraft:projectile": {
+				"on_hit": {
+					"particle_on_hit": {
+						"particle_type": "witchspell",
+						"num_particles": 1,
+						"on_entity_hit": true
+					}
+				},
+				"angle_offset": 0,
+				"isdangerous": false,
+				"offset": [
+					0,
+					0.5,
+					0
+				]
+			},
+			"minecraft:knockback_resistance": {
+				"value": 1
+			},
+			"minecraft:environment_sensor": {
+				"triggers": [
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "desert"
+						},
+						"event": "drp:desert"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "jungle"
+						},
+						"event": "drp:jungle"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "plain"
+						},
+						"event": "drp:plains"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "swamp"
+						},
+						"event": "drp:swamp"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "mesa"
+						},
+						"event": "drp:mesa"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "the_nether"
+						},
+						"event": "drp:nether"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "ice"
+						},
+						"event": "drp:ice"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "the_end"
+						},
+						"event": "drp:end"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "ocean"
+						},
+						"event": "drp:ocean"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "forest"
+						},
+						"event": "drp:forest"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "extreme_hills"
+						},
+						"event": "drp:hills"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "beach"
+						},
+						"event": "drp:beach"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "flat"
+						},
+						"event": "drp:flat"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "mushroom_island"
+						},
+						"event": "drp:mushroom"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "river"
+						},
+						"event": "drp:river"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "savanna"
+						},
+						"event": "drp:savanna"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "stone_beach"
+						},
+						"event": "drp:stone_beach"
+					},
+					{
+						"filters": {
+							"test": "is_biome",
+							"subject": "self",
+							"value": "taiga"
+						},
+						"event": "drp:taiga"
+					}
+				]
+			}
+		},
+		"events": {
+			"drp:desert": {
+				"add": {
+					"component_groups": [
+						"drp:desert_biome"
+					]
+				}
+			},
+			"drp:jungle": {
+				"add": {
+					"component_groups": [
+						"drp:jungle_biome"
+					]
+				}
+			},
+			"drp:plains": {
+				"add": {
+					"component_groups": [
+						"drp:plains_biome"
+					]
+				}
+			},
+			"drp:swamp": {
+				"add": {
+					"component_groups": [
+						"drp:swamp_biome"
+					]
+				}
+			},
+			"drp:mesa": {
+				"add": {
+					"component_groups": [
+						"drp:mesa_biome"
+					]
+				}
+			},
+			"drp:nether": {
+				"add": {
+					"component_groups": [
+						"drp:nether_biome"
+					]
+				}
+			},
+			"drp:ice": {
+				"add": {
+					"component_groups": [
+						"drp:ice_biome"
+					]
+				}
+			},
+			"drp:end": {
+				"add": {
+					"component_groups": [
+						"drp:end_biome"
+					]
+				}
+			},
+			"drp:ocean": {
+				"add": {
+					"component_groups": [
+						"drp:ocean_biome"
+					]
+				}
+			},
+			"drp:forest": {
+				"add": {
+					"component_groups": [
+						"drp:forest_biome"
+					]
+				}
+			},
+			"drp:hills": {
+				"add": {
+					"component_groups": [
+						"drp:extreme_hills_biome"
+					]
+				}
+			},
+			"drp:beach": {
+				"add": {
+					"component_groups": [
+						"drp:beach_biome"
+					]
+				}
+			},
+			"drp:flat": {
+				"add": {
+					"component_groups": [
+						"drp:flat_biome"
+					]
+				}
+			},
+			"drp:mushroom": {
+				"add": {
+					"component_groups": [
+						"drp:mushroom_island_biome"
+					]
+				}
+			},
+			"drp:river": {
+				"add": {
+					"component_groups": [
+						"drp:river_biome"
+					]
+				}
+			},
+			"drp:savanna": {
+				"add": {
+					"component_groups": [
+						"drp:savanna_biome"
+					]
+				}
+			},
+			"drp:stone_beach": {
+				"add": {
+					"component_groups": [
+						"drp:stone_beach_biome"
+					]
+				}
+			},
+			"drp:taiga": {
+				"add": {
+					"component_groups": [
+						"drp:taiga_biome"
+					]
+				}
+			}
+		}
+	}
+}

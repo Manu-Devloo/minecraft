@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v1.0 | Pack By §6FoxyNoTail§r | EXPERIMENTAL | Markers & Adjustable Armor Stands | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2021, FoxyNoTail",
+        "name": "§bArmor Stands+§r & §dMarkers§r EX §l§a[COMBO]§r [R]",
+        "uuid": "025b0b33-c6fd-446a-bf97-f4212a725cdd",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "e0c20b5e-d6cf-47d3-87d9-64ba56b28e6b",
+            "version": [1, 0, 0]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "4fb12d37-4fd2-4d53-8ce5-b7989251c44f",
+		"version": [1, 0, 0]
+	  }
+	]
+}

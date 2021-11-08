@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "reeds": {
+    "blockshape" : "azalea",
+    "textures": {
+      "up": "reeds_side_green",
+      "east": "reeds",
+      "north": "reeds_side_green",
+      "down": "none",
+      "west": "none",
+      "south": "none"
+    }
+  }
+}

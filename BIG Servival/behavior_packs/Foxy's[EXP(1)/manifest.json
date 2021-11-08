@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v2.0.13 | §r Pack By §6FoxyNoTail§r | Requires Experimental Gameplay Features | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail",
+        "name": "§6Foxy's§r [EXPERIMENTAL] §l§bMini Blocks§r v2.0.13 [B]",
+        "uuid": "ed6ffabd-bf09-49da-865f-49c65919887a",
+        "version": [2, 0, 13],
+		"min_engine_version": [1, 16, 201]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "04f668a4-c3af-4ba5-a077-4f664dcc7a4e",
+            "version": [2, 0, 13]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "5999c9d4-9b6e-4aab-b5d7-c644dc76af43",
+		"version": [2, 0, 13]
+	  }
+	]
+}

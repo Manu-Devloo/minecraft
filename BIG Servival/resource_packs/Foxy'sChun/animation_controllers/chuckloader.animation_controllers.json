@@ -1,0 +1,63 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.fcl_chunkloader.move" : {
+			"initial_state" : "moving",
+			"states" : {
+				"moving" : {
+					"animations" : [ "move" ],
+					"transitions" : [
+						{
+							"swinging_arms" : "variable.fcl_chunkloader.swinganimationtick > 0"
+						}
+					]
+				},
+				"swinging_arms" : {
+					"animations" : [ "standing" ],
+					"transitions" : [
+						{
+							"moving" : "variable.fcl_chunkloader.swinganimationtick <= 0"
+						}
+					]
+				}
+			}
+		},
+		"controller.animation.fcl_chunkloader.actions": {
+			"states": {
+				"standing": {
+					"animations" : [ "standing" ],
+					"transitions": [
+						{
+							"sitting": "query.variant == 2"
+						},						
+						{
+							"sleeping": "query.variant == 3"
+						}
+					]
+				},
+				"sitting": {
+					"animations" : [ "sitting" ],
+					"transitions": [
+						{
+							"standing": "query.variant == 1"
+						},						
+						{
+							"sleeping": "query.variant == 3"
+						}
+					]
+				},
+				"sleeping": {
+					"animations" : [ "sleeping" ],
+					"transitions": [
+						{
+							"sitting": "query.variant == 2"
+						},	
+						{
+							"standing": "query.variant == 1"
+						}
+					]
+				}
+			}
+		}
+	}
+}

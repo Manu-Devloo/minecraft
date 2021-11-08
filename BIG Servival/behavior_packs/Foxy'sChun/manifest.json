@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Add-On By FoxyNoTail",
+		"name": "Foxy's Chunk Loader [Chuck] v1.0.0",
+		"uuid": "10017b89-cbdf-41f9-ba28-123abca8e07d",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			14,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Add-On By FoxyNoTai",
+			"type": "data",
+			"uuid": "1006c0d7-61e3-4472-a1e3-a64123abc86d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "100a3ffc-6907-4d0e-af4f-12345eebcd34",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

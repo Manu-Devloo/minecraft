@@ -1,0 +1,16 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "2 Player Horse Riding [B]",
+        "description": "2 Player Horse Riding by KanadaEh",
+        "uuid": "5b1101b2-de08-4e5f-9663-b8b004ece827",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "a657de62-d084-474b-adde-67fdb06ccce9",
+            "version": [0, 0, 1]
+        }
+    ]
+}

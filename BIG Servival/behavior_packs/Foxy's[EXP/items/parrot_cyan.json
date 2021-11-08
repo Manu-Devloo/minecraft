@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:item":{"description":{"identifier":"fmh:parrot_cyan_item","category":"equipment"},"components":{"minecraft:icon":{"texture":"fmh_parrot_cyan"},"minecraft:wearable":{"dispensable":true,"slot":"slot.armor.head"},"minecraft:armor":{"protection":0},"minecraft:entity_placer":{"entity":"fmh:parrot_cyan"}}}}
